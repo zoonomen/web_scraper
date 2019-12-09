@@ -1,0 +1,21 @@
+	h1 {color: maroon}
+	h1 {font-size: x-large}
+#	h1 {font-family: sans-serif}
+	h1 {font-family: 'Tahoma'}
+	h2 {font-size: large}
+	h2 {color: maroon}
+	h3 {color: gray; font-variant:small-caps}
+	h5 {color: gray; font-size: small}
+	body {font-family: 'Palatino Linotype'}
+	span.genus {font-weight: bold ;}
+	.gen {font-weight: bold; color: black;}
+	.sp {font-weight: normal; color: black}
+	.ssp {font-weight: normal; color: black; font-size: small}
+		
+	a:hover { background: #E0E0E0; }
+#	type {font-weight: bold; color: green;}
+#	type {font-weight: bold; color: forestgreen;}
+	type {font-weight: 700; color: green;}
+#	type {font-weight: bold; color: gray;}
+
+

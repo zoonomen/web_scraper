@@ -1,0 +1,138 @@
+The link ../bio/biop.html#Phelps,WH is associated with 
+- Phelps,WH 150 times;
+- Phelpss,WH 1 times;
+
+----LOCATION SPECIFICS---
+
+Phelpss,WH is found in: 
+- pa08.html Platyrinchus flavigularis vividus
+
+-------------
+
+The link ../bio/biop.html#Phelps,WH%20Jr is associated with 
+- Phelps,WH Jr 145 times;
+- Phelps,WH%20Jr 1 times;
+
+----LOCATION SPECIFICS---
+
+Phelps,WH%20Jr is found in: 
+- pa1c.html Pachyramphus cinnamomeus badius
+
+-------------
+
+The link ../bio/biog.html#Gray,JE is associated with 
+- Gray,JE 63 times;
+- Gray.JE 2 times;
+
+----LOCATION SPECIFICS---
+
+Gray.JE is found in: 
+- pa3t.html Phylloscopus xanthoschistos ;
+- pa3t.html Phylloscopus xanthoschistos xanthoschistos
+
+-------------
+
+The link ../bio/biob.html#Bond is associated with 
+- Bond 50 times;
+- Bond) 1 times;
+
+----LOCATION SPECIFICS---
+
+Bond) is found in: 
+- pa09.html Epinecrophylla leucophthalma dissita
+
+-------------
+
+The link ../bio/biob.html#Blasius is associated with 
+- Blasius,W 5 times;
+- Blasius,JH 2 times;
+
+----LOCATION SPECIFICS---
+
+Blasius,W is found in: 
+- pici.html Dryocopus javensis suluensis;
+- pa35.html Pachycephala homeyeri ;
+- pa35.html Pachycephala homeyeri homeyeri;
+- pa3n.html Sittiparus semilarvatus nehrkorni;
+- pa3x.html Hypsipetes everetti haynaldi
+Blasius,JH is found in: 
+- gall.html GENUS: GALLIFORMES PHASIANIDAE Tetrastes;
+- proc.html GENUS: PROCELLARIIFORMES HYDROBATIDAE Oceanites
+
+-------------
+
+The link ../bio/bioh.html#Heine is associated with 
+- Heine 117 times;
+- Heine Jr 2 times;
+
+----LOCATION SPECIFICS---
+
+Heine Jr is found in: 
+- apod.html Chlorostilbon stenurus stenurus;
+- apod.html Chlorostilbon stenurus stenurus
+
+-------------
+
+The link ../bio/bioj.html#Johansen,HC is associated with 
+- Johansen,HC 1 times;
+- Johansen,H 1 times;
+
+----LOCATION SPECIFICS---
+
+Johansen,HC is found in: 
+- pa60.html Coccothraustes coccothraustes shulpini
+Johansen,H is found in: 
+- char.html Larus fuscus barabensis
+
+-------------
+
+The link ../bio/biol.html#Lencioni-Neto is associated with 
+- Lenciono-Neto 1 times;
+- Lencioni-Neto 1 times;
+
+----LOCATION SPECIFICS---
+
+Lenciono-Neto is found in: 
+- pa08.html Knipolegus nigerrimus hoflingae
+Lencioni-Neto is found in: 
+- capr.html Nyctiprogne vielliardi 
+
+-------------
+
+The link ../bio/biok.html#Kummerlowe is associated with 
+- Kumerloeve 1 times;
+- Kummerlowe 1 times;
+
+----LOCATION SPECIFICS---
+
+Kumerloeve is found in: 
+- pa3u.html Calandrella brachydactyla woltersi
+Kummerlowe is found in: 
+- pici.html Dendrocopos major paphlagoniae
+
+-------------
+
+The link ../bio/biol.html#Lorenz%20von%20Liburnau,L is associated with 
+- Lorenz von Liburnau,L 6 times;
+- Lorenz von Liburnau, L 1 times;
+
+----LOCATION SPECIFICS---
+
+Lorenz von Liburnau, L is found in: 
+- pa32.html Lanius excubitor buryi
+
+-------------
+
+The link ../bio/biod.html#Davis is associated with 
+- Davis,LI 1 times;
+- Davis 1 times;
+
+----LOCATION SPECIFICS---
+
+Davis,LI is found in: 
+- pa39.html Corvus sinaloae 
+Davis is found in: 
+- pa09.html Herpsilochmus parkeri 
+
+-------------
+

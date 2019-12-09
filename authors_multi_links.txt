@@ -1,0 +1,845 @@
+The name Neumann is associated with 
+- ../bio/bion.html#Neumann 232 times;
+- ../bio/bior.html#Neumann 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bior.html#Neumann is found in: 
+- pa4g.html Turdoides hypoleuca rufuensis
+
+-------------
+
+The name Rothschild is associated with 
+- ../bio/bior.html#Rothschild 276 times;
+- ../bio/bior.htmo#Rothschild 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bior.htmo#Rothschild is found in: 
+- pa3c.html Paradisaea minor jobiensis
+
+-------------
+
+The name Reichenow is associated with 
+- ../bio/bior.html#Reichenow 503 times;
+- ../../bio/bior.html#Reichenow 6 times;
+
+----LOCATION SPECIFICS---
+
+../../bio/bior.html#Reichenow is found in: 
+- anse.html Anas eatoni drygalskii;
+- char.html Chionis minor nasicornis;
+- char.html Sterna vittata georgiae;
+- pa3u.html Ammomanes deserti erythrochroa;
+- pa3v.html Prinia gracilis deltae;
+- pa40.html Zosterops stuhlmanni toroensis
+
+-------------
+
+The name Sclater,PL is associated with 
+- ../bio/bios.html#Sclater,PL 1072 times;
+- ../bio/bios.htmlSclater,PL 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bios.htmlSclater,PL is found in: 
+- cora.html Momotus subrufescens subrufescens
+
+-------------
+
+The name Bonaparte is associated with 
+- ../bio/biob.html#Bonaparte 624 times;
+- ../../bio/biob.html#Bonaparte 1 times;
+
+----LOCATION SPECIFICS---
+
+../../bio/biob.html#Bonaparte is found in: 
+- char.html Larus canus kamtschatschensis
+
+-------------
+
+The name Gray,GR is associated with 
+- ../bio/biog.html#Gray,GR 392 times;
+- ./n/b.html#BostrychiaGray 1 times;
+
+----LOCATION SPECIFICS---
+
+./n/b.html#BostrychiaGray is found in: 
+- pele.html GENUS: PELECANIFORMES THRESKIORNITHIDAE Bostrychia
+
+-------------
+
+The name Friedmann is associated with 
+- ../bio/biof.html#Friedmann 41 times;
+- ../bio/biof.html#Friedman 4 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biof.html#Friedman is found in: 
+- gall.html Dendrortyx macroura diversus;
+- acci.html Chondrohierax uncinatus mirus;
+- pa4m.html#Promeropidae Promerops gurneyi ardens;
+- pa4d.html Neocichla gutturalis angusta
+
+-------------
+
+The name Berlepsch is associated with 
+- ../bio/biob.html#Berlepsch 340 times;
+- ../../bio/biob.html#Berlepsch 1 times;
+
+----LOCATION SPECIFICS---
+
+../../bio/biob.html#Berlepsch is found in: 
+- pa08.html Suiriri suiriri bahiae
+
+-------------
+
+The name Dwight is associated with 
+- ../bio/biod.html#Dwight 16 times;
+- ../bio/bidm.html#Dwight 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bidm.html#Dwight is found in: 
+- pa6d.html Junco hyemalis cismontanus
+
+-------------
+
+The name Delacour is associated with 
+- ../bio/biod.html#Delacour 153 times;
+- ../bio/biod.html#Delaco ur 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biod.html#Delaco ur is found in: 
+- gall.html Arborophila chloropus tonkinensis
+
+-------------
+
+The name Baird,SF is associated with 
+- ../bio/biob.html#Baird,SF 112 times;
+- ../bio/biob.htmb#Baird,SF 2 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biob.htmb#Baird,SF is found in: 
+- pa05.html Xiphorhynchus flavigaster mentalis;
+- pa66.html Sporophila torqueola atriceps
+
+-------------
+
+The name Richardson is associated with 
+- ../bio/bior.html#Richardson 5 times;
+- ../../bio/bior.html#Richardson 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bior.html#Richardson is found in: 
+- anse.html Branta hutchinsii ;
+- anse.html Branta hutchinsii hutchinsii;
+- anse.html Cygnus buccinator ;
+- gall.html Lagopus leucura ;
+- gall.html Lagopus leucura leucura
+../../bio/bior.html#Richardson is found in: 
+- char.html Larus canus brachyrhynchus
+
+-------------
+
+The name Ridgway is associated with 
+- ../bio/bior.html#Ridgway 496 times;
+- ../../bio/bior.html#Ridgway 14 times;
+
+----LOCATION SPECIFICS---
+
+
+-------------
+
+The name Menegaux is associated with 
+- ../bio/biom.html#Menegaux 10 times;
+- ../../bio/biom.html#Menegaux 1 times;
+
+----LOCATION SPECIFICS---
+
+../../bio/biom.html#Menegaux is found in: 
+- pa05.html Lepidocolaptes lacrymiger aequatorialis
+
+-------------
+
+The name Jouventin is associated with 
+- ../bio/bioj.html#Jouventin 2 times;
+- ../bio/bioj.html #Jouventin 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bioj.html#Jouventin is found in: 
+- anse.html Mareca marecula ;
+- phae.html Phaethon lepturus europae
+../bio/bioj.html #Jouventin is found in: 
+- proc.html Diomedea amsterdamensis 
+
+-------------
+
+The name Sharpe is associated with 
+- ../bio/bios.html#Sharpe 657 times;
+- ../bio/bios.html#Shapre 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bios.html#Shapre is found in: 
+- cucu.html Ceuthmochares australis 
+
+-------------
+
+The name Mathews is associated with 
+- ../bio/biom.html#Mathews 284 times;
+- ../../bio/biom.html#Mathews 1 times;
+
+----LOCATION SPECIFICS---
+
+../../bio/biom.html#Mathews is found in: 
+- proc.html GENUS: PROCELLARIIFORMES PROCELLARIIDAE Pseudobulweria
+
+-------------
+
+The name Ogilvie-Grant is associated with 
+- ../bio/bioo.html#Ogilvie-Grant 233 times;
+- ../bio/biol.htmo#Ogilvie-Grant 12 times;
+
+----LOCATION SPECIFICS---
+
+
+-------------
+
+The name Hellmayr is associated with 
+- ../bio/bioh.html#Hellmayr 352 times;
+- ../bio/biod.html#Hellmayr 3 times;
+- ../bio/bioh.html#Hellmary 2 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biod.html#Hellmayr is found in: 
+- pa50.html Anthus correndera catamarcae;
+- pa50.html Anthus hellmayri brasilianus;
+- pa50.html Anthus hellmayri dabbenei
+../bio/bioh.html#Hellmary is found in: 
+- apod.html Chaetura meridionalis ;
+- apod.html Chaetura meridionalis 
+
+-------------
+
+The name Muller,PLS is associated with 
+- ../bio/biom.html#Muller,PLS 140 times;
+- ../bio/biom.htmlMuller,PLS 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biom.htmlMuller,PLS is found in: 
+- cora.html Corythornis cristatus galeritus
+
+-------------
+
+The name Meyer de Schauensee is associated with 
+- ../bio/biom.html#Meyer%20de%20Schauensee 106 times;
+- ../bio/biom.html#Meyer%20de%20Schauense 2 times;
+- ../bio/biom.html#Meyer%20de%20S chauensee 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biom.html#Meyer%20de%20Schauense is found in: 
+- pa6d.html Atlapetes rufinucha carrikeri;
+- pa66.html Saltator aurantiirostris hellmayri
+../bio/biom.html#Meyer%20de%20S chauensee is found in: 
+- pa65.html Chlorothraupis stolzmanni dugandi
+
+-------------
+
+The name Dubois is associated with 
+- ../bio/biod.html#Dubois 16 times;
+- ../../bio/biod.html#Dubois 1 times;
+
+----LOCATION SPECIFICS---
+
+../../bio/biod.html#Dubois is found in: 
+- pa40.html Zosterops stuhlmanni reichenowi
+
+-------------
+
+The name Van Rossem is associated with 
+- ../bio/biov.html#VanRossem 115 times;
+- ../bio/bioh.html#VanRossem 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bioh.html#VanRossem is found in: 
+- pa6d.html Passerculus sandwichensis atratus
+
+-------------
+
+The name Miller,AH is associated with 
+- ../bio/biom.html#Miller,AH 13 times;
+- ../bio/biom.html#Miller 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biom.html#Miller is found in: 
+- pa3n.html Poecile sclateri rayi
+
+-------------
+
+The name Howe is associated with 
+- ../bio/bioh.html#Howe 2 times;
+- ../bio/bioh.html#Howe,RH Jr 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bioh.html#Howe is found in: 
+- gall.html Colinus virginianus insulanus;
+- pa6d.html Passerculus sandwichensis labradorius
+../bio/bioh.html#Howe,RH Jr is found in: 
+- falc.html Falco sparverius paulus
+
+-------------
+
+The name Blasius,JH is associated with 
+- ../bio/biob.html#Blasius,JH 4 times;
+- ../bio/biob.html#Blasius 2 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biob.html#Blasius,JH is found in: 
+- acci.html Gypaetus barbatus meridionalis;
+- pa3u.html GENUS: PASSERIFORMES ALAUDIDAE Alaemon;
+- pa3t.html Phylloscopus borealis ;
+- pa3w.html GENUS: PASSERIFORMES ACROCEPHALIDAE Iduna
+../bio/biob.html#Blasius is found in: 
+- gall.html GENUS: GALLIFORMES PHASIANIDAE Tetrastes;
+- proc.html GENUS: PROCELLARIIFORMES HYDROBATIDAE Oceanites
+
+-------------
+
+The name Salomonsen is associated with 
+- ../bio/bios.html#Salomonsen 95 times;
+- ../bio/bios.html#Salo monsen 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bios.html#Salo monsen is found in: 
+- pele.html Butorides striata flyensis
+
+-------------
+
+The name Kleinschmidt,O is associated with 
+- ../bio/biok.html#Kleinschmidt,O 31 times;
+- ../bio/biok.html#Kleinschmidt,A 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biok.html#Kleinschmidt,A is found in: 
+- gall.html Tetrastes bonasia schiebeli
+
+-------------
+
+The name Sundevall is associated with 
+- ../bio/bios.html#Sundevall 104 times;
+- ../bio/bios.html#Sndevall 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bios.html#Sndevall is found in: 
+- colu.html Streptopelia roseogrisea 
+
+-------------
+
+The name Meinertzhagen,A is associated with 
+- ../bio/biom.html#Meinertzhagen,A 7 times;
+- ../bio/biom.html#Meinertzhagen, A 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biom.html#Meinertzhagen, A is found in: 
+- char.html Tringa totanus terrignotae
+
+-------------
+
+The name Xu is associated with 
+- ../biox.html#Xu 1 times;
+- ../bio/biox.html#Xu 1 times;
+
+----LOCATION SPECIFICS---
+
+../biox.html#Xu is found in: 
+- pa4j.html Zoothera salimalii 
+../bio/biox.html#Xu is found in: 
+- gall.html Tetraogallus tibetanus yunnanensis
+
+-------------
+
+The name Bannerman is associated with 
+- ../bio/biob.html#Bannerman 55 times;
+- ../bio/biob.htmb#Bannerman 2 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biob.htmb#Bannerman is found in: 
+- gall.html Pternistis ahantensis hopkinsoni;
+- pa4e.html Illadopsis cleaveri poensis
+
+-------------
+
+The name Jouanin is associated with 
+- ../bio/bioj.html#Jouanin 4 times;
+- ../bio/bioj.html #Jouanin 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bioj.html#Jouanin is found in: 
+- gall.html Pternistis ochropectus ;
+- proc.html Pterodroma baraui ;
+- proc.html Puffinus bailloni nicolae;
+- proc.html Bulweria fallax 
+../bio/bioj.html #Jouanin is found in: 
+- pele.html Ardea cinerea monicae
+
+-------------
+
+The name Bruggemann is associated with 
+- ../bio/biob.html#Bruggemann 10 times;
+- ../bio/biob.html#Bruggeman 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biob.html#Bruggeman is found in: 
+- colu.html Cryptophaps poecilorrhoa 
+
+-------------
+
+The name Roux,F is associated with 
+- ../bio/bior.html#Roux,F 1 times;
+- ../bio/bior.html #Roux,F 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bior.html#Roux,F is found in: 
+- stri.html Glaucidium capense etchecopari
+../bio/bior.html #Roux,F is found in: 
+- proc.html Diomedea amsterdamensis 
+
+-------------
+
+The name Mougin is associated with 
+- ../bio/biom.html#Mougin 1 times;
+- ../bio/biom.html #Mougin 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biom.html#Mougin is found in: 
+- char.html Anous ceruleus murphyi
+../bio/biom.html #Mougin is found in: 
+- proc.html Diomedea amsterdamensis 
+
+-------------
+
+The name Townsend,CH is associated with 
+- ../bio/biot.html#Townsend,CH 10 times;
+- ../bio/biot.html#Townsen d,CH 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biot.html#Townsen d,CH is found in: 
+- pa61.html Leiothlypis celata sordida
+
+-------------
+
+The name Blasius,W is associated with 
+- ../bio/biob.html#Blasius,W 21 times;
+- ../bio/biob.html#Blasius 5 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biob.html#Blasius is found in: 
+- pici.html Dryocopus javensis suluensis;
+- pa35.html Pachycephala homeyeri ;
+- pa35.html Pachycephala homeyeri homeyeri;
+- pa3n.html Sittiparus semilarvatus nehrkorni;
+- pa3x.html Hypsipetes everetti haynaldi
+
+-------------
+
+The name Lavauden is associated with 
+- ../bio/biol.html#Lavauden 2 times;
+- ../../bio/biol.html#Lavauden 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biol.html#Lavauden is found in: 
+- pele.html Lophotibis cristata urschi;
+- psit.html Coracopsis vasa drouhardi
+../../bio/biol.html#Lavauden is found in: 
+- pa3u.html Galerida cristata helenae
+
+-------------
+
+The name Roux is associated with 
+- ../bio/bior.html #Roux 1 times;
+- ../bio/bior.html#Roux 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bior.html #Roux is found in: 
+- pele.html Ardea cinerea monicae
+../bio/bior.html#Roux is found in: 
+- pele.html Platalea leucorodia balsaci
+
+-------------
+
+The name Le Maout is associated with 
+- ../bio/biol.html#Le%20Maout 1 times;
+- ../bio/biol.html#LeMaout 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biol.html#Le%20Maout is found in: 
+- otid.html GENUS: OTIDIFORMES OTIDIDAE Ardeotis
+../bio/biol.html#LeMaout is found in: 
+- acci.html GENUS: ACCIPITRIFORMES CATHARTIDAE Coragyps
+
+-------------
+
+The name Silveira,LF is associated with 
+- ../bio/bios.html#Silveira,LF 12 times;
+- ../bio/bio.html#Silveira,LF 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bio.html#Silveira,LF is found in: 
+- acci.html GENUS: ACCIPITRIFORMES ACCIPITRIDAE Cryptoleucopteryx
+
+-------------
+
+The name Deppe is associated with 
+- ../bio/biod.html#Deppe 22 times;
+- ./n/m.html#E.mesoleucaAuthor 1 times;
+
+----LOCATION SPECIFICS---
+
+./n/m.html#E.mesoleucaAuthor is found in: 
+- pa46.html Thryomanes bewickii mexicanus
+
+-------------
+
+The name Oliveros,C is associated with 
+- ../bio/bioo.html#Oliveros,C 2 times;
+- ../bio/bioc.html#Oliveros,C 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bioo.html#Oliveros,C is found in: 
+- grui.html Gallirallus calayanensis ;
+- pa3v.html Orthotomus chaktomuk 
+../bio/bioc.html#Oliveros,C is found in: 
+- pa4a.html Robsonius thompsoni 
+
+-------------
+
+The name Gunther is associated with 
+- ./bio/biog.html#Gunther 1 times;
+- ../bio/biog.html#Gunther 1 times;
+
+----LOCATION SPECIFICS---
+
+./bio/biog.html#Gunther is found in: 
+- pa3s.html Aegithalos caudatus tephronotus
+../bio/biog.html#Gunther is found in: 
+- grui.html Dryolimnas cuvieri aldabranus
+
+-------------
+
+The name Sangster is associated with 
+- ../bio/bios.html#Sangster 5 times;
+- ../bio/bios.html#Sangster` 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bios.html#Sangster is found in: 
+- colu.html GENUS: COLUMBIFORMES COLUMBIDAE Paraclaravis;
+- stri.html Otus jolandae ;
+- capr.html Caprimulgus meesi ;
+- pa61.html GENUS: PASSERIFORMES PARULIDAE Parkesia;
+- pa61.html GENUS: PASSERIFORMES PARULIDAE Leiothlypis
+../bio/bios.html#Sangster` is found in: 
+- grui.html GENUS: GRUIFORMES RALLIDAE Paragallinula
+
+-------------
+
+The name duPont is associated with 
+- ../bio/biob.html#duPont 6 times;
+- ../bio/biod.html#duPont 3 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biod.html#duPont is found in: 
+- char.html Turnix sylvaticus nigrorum;
+- pa3x.html Hypsipetes philippinus parkesi;
+- pa4x.html Erythrura cyaneovirens gaughrani
+
+-------------
+
+The name Bryant,H is associated with 
+- ../bio/biob.html#Bryant,H 21 times;
+- ../bio/biob.html#Bryant, H 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biob.html#Bryant, H is found in: 
+- pa66.html Coereba flaveola portoricensis
+
+-------------
+
+The name Gonzales is associated with 
+- ../bio/biog.html#Gonzales 3 times;
+- ../bio/biog.html#Gonzlaes 2 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biog.html#Gonzales is found in: 
+- colu.html Gallicolumba luzonica rubiventris;
+- pa40.html Zosterornis latistriatus ;
+- pa4t.html Arachnothera clarae luzonensis
+../bio/biog.html#Gonzlaes is found in: 
+- pa4t.html Aethopyga boltoni tibolii;
+- pa4t.html Aethopyga linaraborae 
+
+-------------
+
+The name Forshaw is associated with 
+- ../bio/biof.html#Forshaw 2 times;
+- ../bio/biof#Forshaw 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biof.html#Forshaw is found in: 
+- psit.html Prioniturus platurus sinerubris;
+- psit.html Barnardius zonarius parkeri
+../bio/biof#Forshaw is found in: 
+- colu.html Pampusana norfolkensis 
+
+-------------
+
+The name Heine Jr is associated with 
+- ../bio/bioh.html#Heine Jr 18 times;
+- ../bio/bioh.html#Heine 2 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bioh.html#Heine is found in: 
+- apod.html Chlorostilbon stenurus stenurus;
+- apod.html Chlorostilbon stenurus stenurus
+
+-------------
+
+The name Garrido is associated with 
+- ../bio/biog.html#Garrido 12 times;
+- ../bio/biog.html# Garrido 3 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biog.html# Garrido is found in: 
+- stri.html Glaucidium siju turquinense;
+- stri.html Asio flammeus cubensis;
+- capr.html Siphonorhis brewsteri gonavensis
+
+-------------
+
+The name Koenig,C is associated with 
+- ../bio/biok.html#Koenig,C 5 times;
+- ../bio/biok.html#Koneig,C 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biok.html#Koenig,C is found in: 
+- stri.html Megascops hoyi ;
+- stri.html Glaucidium brasilianum stranecki;
+- stri.html Glaucidium peruanum ;
+- pa40.html Zosterops senegalensis gerhardi;
+- pa60.html Spinus magellanicus hoyi
+../bio/biok.html#Koneig,C is found in: 
+- stri.html Glaucidium bolivianum 
+
+-------------
+
+The name Pacheco is associated with 
+- ../bio/biop.html#Pacheco 10 times;
+- bio/bioh.html#Pacheco 1 times;
+
+----LOCATION SPECIFICS---
+
+bio/bioh.html#Pacheco is found in: 
+- capr.html Chordeiles nacunda coryi
+
+-------------
+
+The name Simon is associated with 
+- ../bio/bios.html#Simon 38 times;
+- ../../bio/bios.html#Simon 2 times;
+
+----LOCATION SPECIFICS---
+
+../../bio/bios.html#Simon is found in: 
+- apod.html Haplophaedia aureliae caucensis;
+- apod.html Haplophaedia aureliae caucensis
+
+-------------
+
+The name Howell,TR is associated with 
+- ../bio/bioh.html#Howell 7 times;
+- ../bio/bioh.html#Howell,TR 2 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bioh.html#Howell,TR is found in: 
+- psit.html Amazona oratrix belizensis;
+- psit.html Amazona auropalliata parvipes
+
+-------------
+
+The name Galbraith,ICJ is associated with 
+- ../bio/biog.html#Galbraith 5 times;
+- ../bio/biog.html#Galbraith,ICJ 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biog.html#Galbraith is found in: 
+- pa2q.html Coracina welchmani amadonis;
+- pa3e.html Petroica pusilla dennisi;
+- pa4a.html Cincloramphus whitneyi turipavae;
+- pa4j.html Zoothera turipavae ;
+- pa4j.html Turdus poliocephalus sladeni
+../bio/biog.html#Galbraith,ICJ is found in: 
+- cora.html Todiramphus sacer sororum
+
+-------------
+
+The name Lousada is associated with 
+- ../bio/biol.html#Lousada 1 times;
+- ../bio/biol.html#Lousada,SA 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biol.html#Lousada is found in: 
+- psit.html Amazona auropalliata caribaea
+../bio/biol.html#Lousada,SA is found in: 
+- psit.html Amazona oratrix hondurensis
+
+-------------
+
+The name Philippi B is associated with 
+- ../bio/biop.html#Philippi%20B 4 times;
+- ../bio/biop.html#Philippi%20B. 2 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biop.html#Philippi%20B is found in: 
+- pa05.html Phleocryptes melanops loaensis;
+- pa1a.html Pteroptochos megapodius atacamae;
+- pa66.html Phrygilus gayi minor;
+- pa66.html Diuca diuca chiloensis
+../bio/biop.html#Philippi%20B. is found in: 
+- pa08.html Tachuris rubrigastra loaensis;
+- pa08.html Xolmis pyrope fortis
+
+-------------
+
+The name Buzzetti is associated with 
+- ../bio/biob.html#Buzzetti 2 times;
+- bio/biob.html#Buzzetti 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biob.html#Buzzetti is found in: 
+- pa09.html Formicivora grantsaui ;
+- pa09.html Stymphalornis acutirostris paludicola
+bio/biob.html#Buzzetti is found in: 
+- pa05.html Cichlocolaptes mazarbarnetti 
+
+-------------
+
+The name Cohn-Haft is associated with 
+- ../bio/bioa.html#Cohn-Haft 4 times;
+- ../bio/bioc.html#Cohn-Haft 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/bioa.html#Cohn-Haft is found in: 
+- pa09.html Herpsilochmus stotzi ;
+- pa09.html Herpsilochmus praedictus ;
+- pa09.html Hypocnemis rondoni ;
+- pa39.html Cyanocorax heilprini hafferi
+../bio/bioc.html#Cohn-Haft is found in: 
+- pa09.html Cercomacroides laeta waimiri
+
+-------------
+
+The name Giraud Jr is associated with 
+- ../bio/biog.html#Giraud%20Jr 10 times;
+- ../bio/biog.html#Giraud 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biog.html#Giraud is found in: 
+- pa6s.html Icterus graduacauda audubonii
+
+-------------
+
+The name McEvey is associated with 
+- ../bio/biom#McEvey 2 times;
+- ../bio/biom.html#McEvey 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biom#McEvey is found in: 
+- pa1v.html Amytornis barbatus ;
+- pa1v.html Amytornis barbatus barbatus
+../bio/biom.html#McEvey is found in: 
+- pa3u.html Mirafra javanica forresti
+
+-------------
+
+The name Kumerloeve is associated with 
+- ../bio/biok.html#Kummerlowe 1 times;
+- ../bio/biok.html#Kumerloeve 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biok.html#Kummerlowe is found in: 
+- pa3u.html Calandrella brachydactyla woltersi
+../bio/biok.html#Kumerloeve is found in: 
+- pa2y.html Panurus biarmicus kosswigi
+
+-------------
+
+The name Kazakov is associated with 
+- ../bio/biok.html#Kazakov 1 times;
+- ../bio/biol.html#Kazakov 1 times;
+
+----LOCATION SPECIFICS---
+
+../bio/biok.html#Kazakov is found in: 
+- pa4a.html Locustella luscinioides sarmatica
+../bio/biol.html#Kazakov is found in: 
+- pa3w.html Acrocephalus melanopogon albiventris
+
+-------------
+
+The name Zhang,R is associated with 
+- ../bioz.html#Zhang,R 1 times;
+- ../bio/bioz.html#Zhang,R 1 times;
+
+----LOCATION SPECIFICS---
+
+../bioz.html#Zhang,R is found in: 
+- pa4j.html Zoothera salimalii 
+../bio/bioz.html#Zhang,R is found in: 
+- pa4g.html Ianthocincla lunulata liangshanensis
+
+-------------
+

@@ -1,0 +1,140 @@
+NOTE all data is shown after a '-'
+if nothing comes after a '-' means there is a blank line
+
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Melithreptus albogularis Gould 1848 BirdsAustr. pt30 pl.74
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Melithreptus lunatus (Vieillot) 1802 Ois.Dores[Audebert&Vieillot] 2 p.95
+pl.61
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Melithreptus chloropsis Gould 1848 BirdsAustr. pt30 pl.73
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Nesoptilotis flavicollis (Vieillot) 1817 Nouv.Dict.Hist.Nat. 14 p.325
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Epthianura tricolor Gould 1841 PZS["1840"] Pt8 no.94 p.159
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Epthianura aurifrons Gould 1838 Syn.BirdsAustr. pt4 App. p.4
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Epthianura crocea Castelnau & Ramsay,EP 1877
+Proc.Linn.Soc.NewS.Wales 1 pt4 p.380
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Epthianura albifrons (Jardine & Selby) 1828 Ill.Orn. 2 pl.56,text
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Macgregoria pulchra De Vis 1897 BBOC 6 p.26 Citation
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Melipotes gymnops Sclater,PL  1874 PZS["1873"] Pt3 p.695 pl.56
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Melipotes fumigatus Meyer,AB 1886 Zeitsch.ges.Orn. 3 p.22 pl.4 fig.1
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Melipotes carolae Beehler, Prawiradilaga, Fretes, & Kemp,N 2007 Auk 124 p.1002
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Melipotes ater Rothschild & Hartert 1911 BBOC 29 p.13
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Timeliopsis griseigula (Schlegel) 1871 Nederl.Tijdschr.Dierk. 4 p.39
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Conopophila albogularis (Gould) 1843 PZS["1842"] Pt10 no.117 p.137
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Ramsayornis modestus (Gray,GR) 1858 PZS Pt26
+no.357 p.174
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Acanthagenys rufogularis Gould 1838 Syn.BirdsAustr. pt4 pl.69
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Anthochaera chrysoptera (Latham)  1802 Suppl.ind.orn. p.xxxiii
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Anthochaera lunulata Gould 1838 Syn.BirdsAustr. pt4 App. p.5
+- pa1y.html
+ERROR in pa1y.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa1y.html GENUS: PASSERIFORMES MELIPHAGIDAE Entomyzon
+- Caligavis chrysops (Latham)  1802 Suppl.ind.orn. p.liv
+- pa1y.html
+ERROR in pa4l.html
+TYPE: SUBSP NOT PARSED
+INFO:
+- pa4l.html GENUS: PASSERIFORMES MUSCICAPIDAE Sholicola
+- Sholicola albiventrisRobin,VV,
+	Vishnudas,CK,
+	Pooja Gupta,
+	Rheindt,
+	Hooper,DM,
+	Uma Ramakrishnan, &
+	Sushma Reddy 2017
+	BMCEvol.Biol. 17:31
+	p.?
+- pa4l.html

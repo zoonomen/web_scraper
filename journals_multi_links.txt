@@ -1,0 +1,620 @@
+The name Ibis is associated with 
+- ../cit/jouri.html#Ibis 1320 times;
+- ../cit/ jouri.html#Ibis 2 times;
+- ../cit/jouri.html#Ibis. 2 times;
+- ../cit/jourb.html#Ibis 2 times;
+- ../../cit/jouri.html#Ibis 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/ jouri.html#Ibis is found in: 
+- pa50.html Anthus cinnamomeus lynesi;
+- pa64.html Emberiza affinis nigeriae
+../cit/jouri.html#Ibis. is found in: 
+- pa4w.html Ploceus pelzelni ;
+- pa4w.html Ploceus pelzelni pelzelni
+../cit/jourb.html#Ibis is found in: 
+- grui.html GENUS: GRUIFORMES RALLIDAE Aphanocrex;
+- grui.html Aphanocrex podarces 
+../../cit/jouri.html#Ibis is found in: 
+- proc.html GENUS: PROCELLARIIFORMES PROCELLARIIDAE Pseudobulweria
+
+-------------
+
+The name J.Orn. is associated with 
+- ../cit/jourj.html#J.Orn. 1018 times;
+- ../cit/jouro.html#J.Orn. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jouro.html#J.Orn. is found in: 
+- grui.html GENUS: GRUIFORMES RALLIDAE Aphanapteryx
+
+-------------
+
+The name Occ.Pap.Mus.Zool.U.Michigan is associated with 
+- ../cit/jouro.html#Occ.Pap.Mus.Zool.U.Michigan 24 times;
+- ../cit/jouro.html#Occ.Pap.Mus.Zool .U.Michigan 4 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jouro.html#Occ.Pap.Mus.Zool .U.Michigan is found in: 
+- gall.html Colinus nigrogularis caboti;
+- gall.html Colinus nigrogularis persiccus;
+- pa3q.html Petrochelidon fulva citata;
+- pa6s.html Sturnella magna griscomi
+
+-------------
+
+The name Proc.Biol.Soc.Wash. is associated with 
+- ../cit/jourp.html#Proc.Biol.Soc.Wash. 1049 times;
+- ../cit/jourp.html#Proc.Biol.Soc.Wash . 13 times;
+- ../cit/jourp.html#Proc.Biol.Soc.Was h. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourp.html#Proc.Biol.Soc.Was h. is found in: 
+- pa65.html Pheucticus aureoventris terminalis
+
+-------------
+
+The name PZS is associated with 
+- ../cit/jourp.html#PZS 2833 times;
+- ..cit/jourp.html#PZS 3 times;
+
+----LOCATION SPECIFICS---
+
+..cit/jourp.html#PZS is found in: 
+- pa36.html Dicrurus hottentottus striatus;
+- pa4r.html Dicaeum hypoleucum mindanense;
+- pa4t.html Leptocoma sperata juliae
+
+-------------
+
+The name Cat.BirdsBrit.Mus. is associated with 
+- ../cit/jourc.html#Cat.BirdsBrit.Mus. 232 times;
+- ../cit/jourc.html#Cat.BirdsBrit. Mus. 2 times;
+- ../cit/jourc.htmlCat.BirdsBrit.Mus. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourc.html#Cat.BirdsBrit. Mus. is found in: 
+- pa1e.html Grallaria ruficapilla nigrolineata;
+- pa1a.html Liosceles thoracicus erithacus
+../cit/jourc.htmlCat.BirdsBrit.Mus. is found in: 
+- cora.html Momotus subrufescens argenticinctus
+
+-------------
+
+The name Bull.Mus.Comp.Zool. is associated with 
+- ../cit/jourb.html#Bull.Mus.Comp.Zool. 155 times;
+- ../cit/jourb.html#Bull.Mus.Comp.Zoo l. 1 times;
+- ../cit/jourb.html#Bull.Mus.Comp.Zool . 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourb.html#Bull.Mus.Comp.Zoo l. is found in: 
+- pa65.html Passerina leclancherii grandior
+../cit/jourb.html#Bull.Mus.Comp.Zool . is found in: 
+- pa38.html Terpsiphone atrocaudata illex
+
+-------------
+
+The name Ann.Lyc.Nat.Hist.N.Y. is associated with 
+- ../cit/joura.html#Ann.Lyc.Nat.Hist.N.Y. 216 times;
+- ../cit/joura.html#Ann.Lyc.Nat.His t.N.Y. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/joura.html#Ann.Lyc.Nat.His t.N.Y. is found in: 
+- pa33.html Hylophilus decurtatus brevipennis
+
+-------------
+
+The name Proc.Acad.Nat.Sci.Philadelphia is associated with 
+- ../cit/jourp.html#Proc.Acad.Nat.Sci.Philadelphia 471 times;
+- ../cit/jourp.html#Proc.Acad.Nat.Sc i.Philadelphia 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourp.html#Proc.Acad.Nat.Sc i.Philadelphia is found in: 
+- pa66.html Sicalis citrina occidentalis
+
+-------------
+
+The name Bull.Am.Mus.Nat.Hist. is associated with 
+- ../cit/jourb.html#Bull.Am.Mus.Nat.Hist. 240 times;
+- ../cit/jourb.html#Bull.Am.Mus.N at.Hist. 2 times;
+- ../cit/jourb.html#Bull.Am.Mus.Nat.H ist. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourb.html#Bull.Am.Mus.N at.Hist. is found in: 
+- pa2q.html Pericrocotus ethologus yvettae;
+- pa37.html Rhipidura fuliginosa placabilis
+../cit/jourb.html#Bull.Am.Mus.Nat.H ist. is found in: 
+- pa6s.html Molothrus bonariensis aequatorialis
+
+-------------
+
+The name FieldMus.Nat.Hist.Pub.Orn.Ser.1 is associated with 
+- ../cit/jourf.html#FieldMus.Nat.Hist.Pub.Orn.Ser.1 54 times;
+- ../cit/jourf.htmlFieldMus.Nat.Hist.Pub.Orn.Ser.1 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourf.htmlFieldMus.Nat.Hist.Pub.Orn.Ser.1 is found in: 
+- cora.html Momotus subrufescens osgoodi
+
+-------------
+
+The name Mem.Pres.Acad.Imp.Sci.St.Petersb. is associated with 
+- ../cit/jourm.html#Mem.Pres.Acad.Imp.Sci.St.Petersb. 16 times;
+- ../cit/jourm.html#Mem.Acad.Imp.Sci.St.Petersb. 10 times;
+
+----LOCATION SPECIFICS---
+
+
+-------------
+
+The name Proc.U.S.Natl.Mus. is associated with 
+- ../cit/jourp.html#Proc.U.S.Natl.Mus. 371 times;
+- ../cit/jourp.html#Proc.U.S.Natl.Mus . 6 times;
+- ../cit/jourp.html#Proc.U.S .Natl.Mus. 1 times;
+- ../cit/jourp.html#Proc. U.S.Natl.Mus. 1 times;
+- ../cit/jourp.html#Proc.U. S.Natl.Mus. 1 times;
+- ../cit/jourp.html#Proc.U.S.Natl.Mu s. 1 times;
+- ../cit/jourp.html#Proc.U.S.Natl.M us. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourp.html#Proc.U.S.Natl.Mus . is found in: 
+- pa1e.html Hylopezus perspicillatus lizanoi;
+- pa33.html Vireo approximans ;
+- pa33.html Vireo altiloquus grandior;
+- pa6d.html Arremon aurantiirostris saturatus;
+- pa61.html Basileuterus rufifrons salvini;
+- pa65.html Caryothraustes poliogaster scapularis
+../cit/jourp.html#Proc.U.S .Natl.Mus. is found in: 
+- pa61.html Setophaga petechia melanoptera
+../cit/jourp.html#Proc. U.S.Natl.Mus. is found in: 
+- pa61.html Leiothlypis celata sordida
+../cit/jourp.html#Proc.U. S.Natl.Mus. is found in: 
+- pa6s.html Quiscalus lugubris insularis
+../cit/jourp.html#Proc.U.S.Natl.Mu s. is found in: 
+- pa6b.html Rhodinocichla rosea schistacea
+../cit/jourp.html#Proc.U.S.Natl.M us. is found in: 
+- pa4v.html Passer montanus dilutus
+
+-------------
+
+The name Proc.NewEngl.Zool.Cl. is associated with 
+- ../cit/jourp.html#Proc.NewEngl.Zool.Cl. 140 times;
+- ../cit/jourp.html#Proc.NewEngl.Zoo l.Cl. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourp.html#Proc.NewEngl.Zoo l.Cl. is found in: 
+- pa66.html Lanio leucothorax ictus
+
+-------------
+
+The name Rev.Mag.Zool. is associated with 
+- ../cit/jourr.html#Rev.Mag.Zool. 254 times;
+- ../cit/jourb.html#Bull.Nat.Mus.Nat.Sci.A.Zool. 1 times;
+- ../cit/jourr.htmlRev.Mag.Zool. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourb.html#Bull.Nat.Mus.Nat.Sci.A.Zool. is found in: 
+- pa4j.html Zoothera dauma iriomotensis
+../cit/jourr.htmlRev.Mag.Zool. is found in: 
+- cora.html Momotus subrufescens subrufescens
+
+-------------
+
+The name Handb.spec.Orn. is associated with 
+- ../cit/jourh.html#Handb.spec.Orn. 72 times;
+- ../cit/jourh.html#Handb.spec.Or n. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourh.html#Handb.spec.Or n. is found in: 
+- pele.html GENUS: PELECANIFORMES ARDEIDAE Pilherodius
+
+-------------
+
+The name Am.Orn.[Jamesoned.] is associated with 
+- ../cit/joura.html#Am.Orn.[Jamesoned.] 3 times;
+- ../../cit/joura.html#Am.Orn.[Jamesoned.] 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/joura.html#Am.Orn.[Jamesoned.] is found in: 
+- anse.html Cygnus buccinator ;
+- gall.html Lagopus leucura ;
+- gall.html Lagopus leucura leucura
+../../cit/joura.html#Am.Orn.[Jamesoned.] is found in: 
+- char.html Larus canus brachyrhynchus
+
+-------------
+
+The name Orn.Monatsb. is associated with 
+- ../cit/jouro.html#Orn.Monatsb. 622 times;
+- ../cit/jouro.html#Orn.Monatsb 5 times;
+- ../../cit/jouro.html#Orn.Monatsb. 5 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jouro.html#Orn.Monatsb is found in: 
+- pa33.html Hylophilus hypoxanthus inornatus;
+- pa33.html Hylophilus muscicapinus griseifrons;
+- pa33.html Hylophilus ochraceiceps lutescens;
+- pa3n.html Lophophanes cristatus weigoldi;
+- pa4r.html Dicaeum agile finschi
+../../cit/jouro.html#Orn.Monatsb. is found in: 
+- anse.html Anas eatoni drygalskii;
+- char.html Chionis minor nasicornis;
+- char.html Sterna vittata georgiae;
+- colu.html Ptilinopus fischeri meridionalis;
+- pa08.html Suiriri suiriri bahiae
+
+-------------
+
+The name Ois.Rev.FranceOrn. is associated with 
+- ../cit/jouro.html#Ois.Rev.FranceOrn. 36 times;
+- ../cit/jourr.html#Rev.FranceOrn. 3 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourr.html#Rev.FranceOrn. is found in: 
+- gall.html Arborophila torqueola griseata;
+- pa48.html Sitta solangiae ;
+- pa48.html Sitta solangiae solangiae
+
+-------------
+
+The name Handb.Naturgesch.Vog.Deutschl. is associated with 
+- ../cit/jourh.html#Handb.Naturgesch.Vog.Deutschl. 28 times;
+- ../cit/jourh.html#Handb.Naturgesch .Vog.Deutschl. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourh.html#Handb.Naturgesch .Vog.Deutschl. is found in: 
+- pa64.html Emberiza cia hordei
+
+-------------
+
+The name Cat.Raison.Obj.Zool.Recueil.Voy.Caucase is associated with 
+- ../cit/jourc.html#Cat.Raison.Obj.Zool.Recueil.Voy.Caucase 5 times;
+- ../cit/jourc.html#Cat.Raison.Obj.Zool.Recueil.8oy.Caucase 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourc.html#Cat.Raison.Obj.Zool.Recueil.Voy.Caucase is found in: 
+- anse.html Marmaronetta angustirostris ;
+- pa3u.html Melanocorypha bimaculata ;
+- pa4h.html Sylvia communis icterops;
+- pa4h.html Sylvia mystacea ;
+- pa4h.html Sylvia mystacea mystacea
+../cit/jourc.html#Cat.Raison.Obj.Zool.Recueil.8oy.Caucase is found in: 
+- pa64.html Emberiza schoeniclus caspia
+
+-------------
+
+The name Man.N.Am.Birds is associated with 
+- ../cit/jourm.html#Man.N.Am.Birds 17 times;
+- ../../cit/jourm.html#Man.N.Am.Birds 14 times;
+- ../../cit/jourm.html#Man.N. Am.Birds 1 times;
+
+----LOCATION SPECIFICS---
+
+../../cit/jourm.html#Man.N. Am.Birds is found in: 
+- pa61.html Setophaga pitiayumi graysoni
+
+-------------
+
+The name NotesLeydenMus. is associated with 
+- ../cit/journ.html#NotesLeydenMus. 85 times;
+- ../cit/journ.html#NotesLeydenMus . 3 times;
+
+----LOCATION SPECIFICS---
+
+../cit/journ.html#NotesLeydenMus . is found in: 
+- pa35.html Pachycephala fulvotincta teysmanni;
+- pa4j.html Turdus poliocephalus celebensis;
+- pa4t.html Cinnyris jugularis teysmanni
+
+-------------
+
+The name Not.Nat. is associated with 
+- ../cit/journ.html#Not.Nat. 68 times;
+- ../cit/journ.html#Not.N at. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/journ.html#Not.N at. is found in: 
+- pa65.html Chlorothraupis stolzmanni dugandi
+
+-------------
+
+The name Smiths.Misc.Coll. is associated with 
+- ../cit/jours.html#Smiths.Misc.Coll. 193 times;
+- ../cit/jours.htmlSmiths.Misc.Coll. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jours.htmlSmiths.Misc.Coll. is found in: 
+- cora.html Momotus subrufescens spatha
+
+-------------
+
+The name Nov.Cient.,Contr.Ocas.Mus.Hist.Nat.LaSalleSer.Zool. is associated with 
+- ../cit/journ.html#Nov.Cient.,Contr.Ocas.Mus.Hist.Nat.LaSalleSer.Zool. 7 times;
+- ../cit/journ.html#Nov.Cient.,Contr.Ocas.Mus.Hist.Nat.LaSalle 4 times;
+
+----LOCATION SPECIFICS---
+
+../cit/journ.html#Nov.Cient.,Contr.Ocas.Mus.Hist.Nat.LaSalle is found in: 
+- pa13.html Formicarius rufipectus lasallei;
+- pa46.html Cinnycerthia unirufa chakei;
+- pa46.html Henicorhina leucophrys manastarae;
+- pa4j.html Catharus aurantiirostris barbaritoi
+
+-------------
+
+The name Exped.RockyMt.[James]Phila.ed. is associated with 
+- ../cit/joure.html#Exped.RockyMt.[James]Phila.ed. 14 times;
+- ../cit/joure.html#Exped.RockyMt.[James]Phila.ed 2 times;
+
+----LOCATION SPECIFICS---
+
+../cit/joure.html#Exped.RockyMt.[James]Phila.ed is found in: 
+- gall.html Dendragapus obscurus obscurus;
+- pa60.html Haemorhous mexicanus frontalis
+
+-------------
+
+The name Nouv.Arch.Mus.Hist.Nat.Bull. is associated with 
+- ../cit/journ.html#Nouv.Arch.Mus.Hist.Nat.Bull. 69 times;
+- ../cit/journ.html#Nouv.Arch.Mus.Hist.Nat. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/journ.html#Nouv.Arch.Mus.Hist.Nat. is found in: 
+- pici.html Dendrocopos darjellensis desmursi
+
+-------------
+
+The name Ois.Rev.FranceOrn.(n.s.) is associated with 
+- ../cit/jouro.html#Ois.Rev.FranceOrn. 35 times;
+- ../cit/jouro.html#Ois.Rev.FranceOrn.(n.s.) 2 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jouro.html#Ois.Rev.FranceOrn.(n.s.) is found in: 
+- podi.html Tachybaptus rufolavatus ;
+- pa3z.html Macronus kelleyi 
+
+-------------
+
+The name S.Afr.Q.J. is associated with 
+- ../cit/jours.html#S.Afr.Q.J. 36 times;
+- ../cit/jours.html#S.Afr.Q.J.35 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jours.html#S.Afr.Q.J.35 is found in: 
+- stri.html Tyto capensis 
+
+-------------
+
+The name Consp.Gen.Av. is associated with 
+- ../cit/jourc.html#Consp.Gen.Av. 277 times;
+- ../../cit/jourc.html#Consp.Gen.Av. 1 times;
+
+----LOCATION SPECIFICS---
+
+../../cit/jourc.html#Consp.Gen.Av. is found in: 
+- char.html Larus canus kamtschatschensis
+
+-------------
+
+The name Oefv.Vet.-Akad.Forh. is associated with 
+- ../cit/jouro.html#Oefv.Vet.-Akad.Forh. 87 times;
+- ../cit/jouro.html#Oefv.V et.-Akad.Forh. 2 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jouro.html#Oefv.V et.-Akad.Forh. is found in: 
+- pa61.html Setophaga petechia aequatorialis;
+- pa61.html Setophaga petechia bartholemica
+
+-------------
+
+The name K.Vet.-Akad.Handl. is associated with 
+- ../cit/jourk.html#K.Vet.Akad.NyaHandl. 3 times;
+- ../cit/jourk.html#K.Vet.-Akad.Handl. 2 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourk.html#K.Vet.Akad.NyaHandl. is found in: 
+- acci.html GENUS: ACCIPITRIFORMES ACCIPITRIDAE Leptodon;
+- pa08.html GENUS: PASSERIFORMES TYRANNIDAE Elaenia;
+- pa08.html GENUS: PASSERIFORMES TYRANNIDAE Corythopis
+../cit/jourk.html#K.Vet.-Akad.Handl. is found in: 
+- pa60.html Euphonia xanthogaster ;
+- pa60.html Euphonia xanthogaster xanthogaster
+
+-------------
+
+The name Verh.Orn.Ges.Bayern is associated with 
+- ../cit/jourv.html#Verh.Orn.Ges.Bayern 79 times;
+- ../cit/jourv.html#Verh.Orn.Ges.Baye rn 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourv.html#Verh.Orn.Ges.Baye rn is found in: 
+- pa09.html Percnostola rufifrons subcristata
+
+-------------
+
+The name Occ.Pap.Mus.Zool.LSU is associated with 
+- ../cit/jouro.html#Occ.Pap.Mus.Zool.LSU 17 times;
+- ../cit/jouro.html#Occ.Pap.Mus.Zool.L SU 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jouro.html#Occ.Pap.Mus.Zool.L SU is found in: 
+- pa6d.html Arremonops chloronotus twomeyi
+
+-------------
+
+The name BostonJ.Nat.Hist. is associated with 
+- ../cit/jourb.html#BostonJ.Nat.Hist. 5 times;
+- ../cit/jourj.html#BostonJ.Nat.Hist. 2 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourb.html#BostonJ.Nat.Hist. is found in: 
+- colu.html Geotrygon caniceps ;
+- pa08.html Myiarchus sagrae sagrae;
+- pa65.html Piranga roseogularis ;
+- pa65.html Piranga roseogularis roseogularis;
+- pa66.html Saltator atriceps raptor
+../cit/jourj.html#BostonJ.Nat.Hist. is found in: 
+- pa08.html Myiarchus sagrae ;
+- pa39.html Corvus minutus 
+
+-------------
+
+The name Bull.Mus.R.Hist.Nat.Belg. is associated with 
+- ../cit/jourb.html#Bull.Mus.R.Hist.Nat.Belg. 10 times;
+- ../cit/jourb.html#Bull.Mus.R.Hist.Nat.Bel. 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourb.html#Bull.Mus.R.Hist.Nat.Bel. is found in: 
+- pa6s.html Cacicus sclateri 
+
+-------------
+
+The name Ann.Sci.Phys.Nat.Agric.Ind. is associated with 
+- ../cit/joura.html#Ann.Sci.Phys.Nat.Agric.Ind. 52 times;
+- ../cit/joura.html#Ann.Sci.Phys.Nat.Agric.Ind.(2) 2 times;
+
+----LOCATION SPECIFICS---
+
+../cit/joura.html#Ann.Sci.Phys.Nat.Agric.Ind.(2) is found in: 
+- apod.html Adelomyia melanogenys sabinae;
+- apod.html Adelomyia melanogenys sabinae
+
+-------------
+
+The name Rev.FranceOrn. is associated with 
+- ../cit/jourr.html#Rev.FranceOrn. 20 times;
+- ../../cit/jourr.html#Rev.FranceOrn. 3 times;
+
+----LOCATION SPECIFICS---
+
+../../cit/jourr.html#Rev.FranceOrn. is found in: 
+- apod.html Haplophaedia aureliae caucensis;
+- apod.html Haplophaedia aureliae caucensis;
+- pa40.html Zosterops stuhlmanni reichenowi
+
+-------------
+
+The name Nat.Hist.Bull.Siam.Soc. is associated with 
+- ../cit/journ.html#Nat.Hist.Bull.Siam .Soc. 2 times;
+- ../cit/journ.html#Nat.Hist.Bull.Siam.Soc. 2 times;
+
+----LOCATION SPECIFICS---
+
+../cit/journ.html#Nat.Hist.Bull.Siam .Soc. is found in: 
+- pa38.html Hypothymis helenae agusanae;
+- pa38.html Hypothymis coelestis rabori
+../cit/journ.html#Nat.Hist.Bull.Siam.Soc. is found in: 
+- trog.html Harpactes ardens herberti;
+- pa4e.html Pellorneum ruficeps dusiti
+
+-------------
+
+The name Bull.Brit.Mus.(N.H.) is associated with 
+- ../cit/jourb.html#Bull.Brit.Mus.(N.H.) target= 2 times;
+- ../cit/jourb.html#Bull.Brit.Mus.(N.H.) 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourb.html#Bull.Brit.Mus.(N.H.) target= is found in: 
+- pa3u.html Calendulauda barlowi cavei;
+- pa3u.html Calendulauda barlowi patae
+../cit/jourb.html#Bull.Brit.Mus.(N.H.) is found in: 
+- cora.html Todiramphus sacer sororum
+
+-------------
+
+The name Mem.Soc.Cien.Nat.LaSalle is associated with 
+- ../cit/jourm.html#Mem.Soc.Cien.Nat.La Salle 3 times;
+- ../cit/jourm.html#Mem.Soc.Cien.Nat.LaSalle 1 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourm.html#Mem.Soc.Cien.Nat.La Salle is found in: 
+- psit.html Pionus sordidus ponsi;
+- pa05.html Sclerurus albigularis kunanensis;
+- pa13.html Formicarius analis griseoventris
+../cit/jourm.html#Mem.Soc.Cien.Nat.LaSalle is found in: 
+- pa08.html Phyllomyias zeledoni wetmorei
+
+-------------
+
+The name Austral.Mus.Spec.Cat. is associated with 
+- ../cit/joura.html#Austral.Mus.Spec.Ca t. 3 times;
+- ../cit/joura.html#Austral.Mus.Spec.Cat. 3 times;
+
+----LOCATION SPECIFICS---
+
+../cit/joura.html#Austral.Mus.Spec.Ca t. is found in: 
+- pa22.html Acanthiza pusilla zietzi;
+- pa22.html Acanthiza apicalis albiventris;
+- pa22.html Acanthiza reguloides australis
+../cit/joura.html#Austral.Mus.Spec.Cat. is found in: 
+- psit.html Platycercus eximius diemenensis;
+- psit.html Pezoporus flaviventris ;
+- pa22.html Calamanthus fuliginosus diemenensis
+
+-------------
+
+The name Dir.Austr.BirdsPasserines is associated with 
+- ../cit/jourd.html#Dir.Austr.BirdsPasserines 33 times;
+- ../cit/jourd.html#Dir.Austr.BirdsP asserines 5 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourd.html#Dir.Austr.BirdsP asserines is found in: 
+- pa22.html Smicrornis brevirostris ochrogaster;
+- pa22.html Calamanthus fuliginosus bourneorum;
+- pa22.html Hylacola pyrrhopygia parkeri;
+- pa22.html Hylacola pyrrhopygia pedleri;
+- pa22.html Acanthiza apicalis cinerascens
+
+-------------
+
+The name FaunaBrit.IndiaBirdsEd.2 is associated with 
+- ../cit/jourf.html#FaunaBrit.India BirdsEd.2 5 times;
+- ../cit/jourf.html#FaunaBrit.IndiaBirdsEd.2 2 times;
+
+----LOCATION SPECIFICS---
+
+../cit/jourf.html#FaunaBrit.India BirdsEd.2 is found in: 
+- pa2m.html Aegithina tiphia humei;
+- pa2q.html Pericrocotus ethologus ripponi;
+- pa39.html Dendrocitta vagabunda kinneari;
+- pa39.html Dendrocitta vagabunda sclateri;
+- pa4g.html Heterophasia melanoleuca radcliffei
+../cit/jourf.html#FaunaBrit.IndiaBirdsEd.2 is found in: 
+- pa3r.html GENUS: PASSERIFORMES CETTIIDAE Abroscopus;
+- pa49.html Certhia manipurensis shanensis
+
+-------------
+

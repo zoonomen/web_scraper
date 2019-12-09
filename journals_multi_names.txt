@@ -1,0 +1,342 @@
+The link ../cit/jours.html#Syst.Nat. is associated with 
+- Syst.Nat.ed.10 830 times;
+- Syst.Nat. 605 times;
+- Syst.Nat.ed.12 439 times;
+
+----LOCATION SPECIFICS---
+
+
+-------------
+
+The link ../cit/joura.html#Ann.Mag.Nat.Hist. is associated with 
+- Ann.Mag.Nat.Hist.(4) 150 times;
+- Ann.Mag.Nat.Hist.(1) 61 times;
+- Ann.Mag.Nat.Hist.(3) 38 times;
+- Ann.Mag.Nat.Hist.(6) 36 times;
+- Ann.Mag.Nat.Hist.(2) 23 times;
+- Ann.Mag.Nat.Hist.(9) 15 times;
+- Ann.Mag.Nat.Hist.(5) 14 times;
+- Ann.Mag.Nat.Hist.(8) 10 times;
+- Ann.Mag.Nat.Hist.(10) 4 times;
+- Ann.Mag.Nat.Hist.(7) 2 times;
+- Ann.Mag.Nat.Hist.(11) 1 times;
+
+----LOCATION SPECIFICS---
+
+Ann.Mag.Nat.Hist.(10) is found in: 
+- pa4c.html Xanthomixis zosterops andapae;
+- pa4c.html Xanthomixis zosterops ankafanae;
+- pa3v.html Neomixis viridis delacouri;
+- pa3v.html Neomixis striatigula pallidior
+Ann.Mag.Nat.Hist.(7) is found in: 
+- pa3x.html GENUS: PASSERIFORMES PYCNONOTIDAE Cerasophila;
+- pa3x.html Cerasophila thompsoni 
+Ann.Mag.Nat.Hist.(11) is found in: 
+- char.html Ptychoramphus aleuticus australis
+
+-------------
+
+The link ../cit/jourm.html#Mag.Zool. is associated with 
+- Mag.Zool. 229 times;
+- Mag.Zool.(2) 8 times;
+
+----LOCATION SPECIFICS---
+
+Mag.Zool.(2) is found in: 
+- pa01.html GENUS: PASSERIFORMES ACANTHISITTIDAE Acanthisitta;
+- pa07.html Xipholena lamellipennis ;
+- pa39.html Cyanocorax sanblasianus ;
+- pa39.html Cyanocorax sanblasianus sanblasianus;
+- pa6s.html Icterus pectoralis guttulatus;
+- pa66.html Conirostrum rufum ;
+- pa66.html GENUS: PASSERIFORMES THRAUPIDAE Piezorina;
+- pa66.html Piezorina cinerea 
+
+-------------
+
+The link ../cit/joura.html#Ann.Sci.Nat.Zool. is associated with 
+- Ann.Sci.Nat.Zool.(2) 19 times;
+- Ann.Sci.Nat.Zool.(5) 14 times;
+- Ann.Sci.Nat.Zool.(7) 11 times;
+- Ann.Sci.Nat.Zool.(6) 8 times;
+
+----LOCATION SPECIFICS---
+
+Ann.Sci.Nat.Zool.(6) is found in: 
+- sphe.html GENUS: SPHENISCIFORMES SPHENISCIDAE Megadyptes;
+- proc.html Calonectris edwardsii ;
+- suli.html Sula nebouxii ;
+- suli.html Sula nebouxii nebouxii;
+- suli.html Anhinga rufa chantrei;
+- psit.html Psittaculirostris edwardsii ;
+- pa2q.html Campephaga petiti ;
+- pa3c.html Drepanornis bruijnii 
+
+-------------
+
+The link ../cit/jourv.html#Verh.Nat.Gesch.[Temminck] is associated with 
+- Verh.Nat.Gesch.[Temminck] 69 times;
+- Verh.Nat.Gesch.[Temminck] Zoologie 1 times;
+
+----LOCATION SPECIFICS---
+
+Verh.Nat.Gesch.[Temminck] Zoologie is found in: 
+- buce.html Buceros rhinoceros borneoensis
+
+-------------
+
+The link ../cit/jouro.html#Ois.Rev.FranceOrn. is associated with 
+- Ois.Rev.FranceOrn. 36 times;
+- Ois.Rev.FranceOrn.(n.s.) 35 times;
+
+----LOCATION SPECIFICS---
+
+
+-------------
+
+The link ../cit/jourb.html#Bull.Soc.Philom. is associated with 
+- Bull.Soc.Philom.(7) 15 times;
+- Bull.Soc.Philom.(6) 5 times;
+- Bull.Soc.Philom.(9) 4 times;
+- Bull.Soc.Philom.(10) 1 times;
+
+----LOCATION SPECIFICS---
+
+Bull.Soc.Philom.(6) is found in: 
+- acci.html Accipiter albogularis sharpei;
+- falc.html Polihierax insignis harmandi;
+- pa35.html Pachycephala vanikorensis ;
+- pa35.html Pachycephala vanikorensis vanikorensis;
+- pa4g.html Pterorhinus berthemyi 
+Bull.Soc.Philom.(9) is found in: 
+- pa09.html Thamnophilus cryptoleucus ;
+- pa09.html Drymophila devillei ;
+- pa09.html Drymophila devillei devillei;
+- pa13.html Chamaeza campanisona venezuelana
+Bull.Soc.Philom.(10) is found in: 
+- anse.html Lophonetta specularioides alticola
+
+-------------
+
+The link ../cit/joura.html#Ann.Mus.Civ.Stor.Nat.Genova is associated with 
+- Ann.Mus.Civ.Stor.Nat.Genova 285 times;
+- Ann.Mus.Civ.Stor.Nat.Genova(3) 1 times;
+
+----LOCATION SPECIFICS---
+
+Ann.Mus.Civ.Stor.Nat.Genova(3) is found in: 
+- pa4g.html Pterorhinus chinensis propinquus
+
+-------------
+
+The link ../cit/jourb.html#Bull.Hebdo.Assoc.Sci.France is associated with 
+- Bull.Hebdo.Assoc.Sci.France(2) 3 times;
+- Bull.Hebdo.Assoc.Sci.France 3 times;
+
+----LOCATION SPECIFICS---
+
+Bull.Hebdo.Assoc.Sci.France(2) is found in: 
+- stri.html Ninox reyi ;
+- buce.html Anthracoceros montani ;
+- psit.html Psittaculirostris salvadorii 
+Bull.Hebdo.Assoc.Sci.France is found in: 
+- gall.html Megapodius decollatus ;
+- psit.html Chalcopsitta atra insignis;
+- pa1v.html GENUS: PASSERIFORMES MALURIDAE Chenorhamphus
+
+-------------
+
+The link ../cit/joura.html#Ann.Mus.CongoZool. is associated with 
+- Ann.Mus.CongoZool.(4) 1 times;
+- Ann.Mus.CongoZool. 1 times;
+
+----LOCATION SPECIFICS---
+
+Ann.Mus.CongoZool.(4) is found in: 
+- cora.html Corythornis leucogaster leopoldi
+Ann.Mus.CongoZool. is found in: 
+- gall.html Ptilopachus nahani 
+
+-------------
+
+The link ../cit/jourb.html#Bull.U.S.Geol.Geogr.Surv.Terr. is associated with 
+- Bull.U.S.Geol.Geogr.Surv.Terr.(2) 7 times;
+- Bull.U.S.Geol.Geogr.Surv.Terr.(4) 2 times;
+- Bull.U.S.Geol.Geogr.Surv.Terr.(5) 2 times;
+
+----LOCATION SPECIFICS---
+
+Bull.U.S.Geol.Geogr.Surv.Terr.(4) is found in: 
+- pele.html GENUS: PELECANIFORMES ARDEIDAE Syrigma;
+- pa61.html Setophaga pitiayumi nigrilora
+Bull.U.S.Geol.Geogr.Surv.Terr.(5) is found in: 
+- gall.html Meleagris gallopavo intermedia;
+- pa4j.html Turdus lawrencii 
+
+-------------
+
+The link ../cit/jourj.html#J.Sci.Math.Phys.Nat.Lisboa is associated with 
+- J.Sci.Math.Phys.Nat.Lisboa(1) 53 times;
+- J.Sci.Math.Phys.Nat.Lisboa(2) 10 times;
+
+----LOCATION SPECIFICS---
+
+
+-------------
+
+The link ../cit/jourr.html#Rev.FranceOrn. is associated with 
+- Rev.FranceOrn. 20 times;
+- Ois.Rev.FranceOrn. 3 times;
+
+----LOCATION SPECIFICS---
+
+Ois.Rev.FranceOrn. is found in: 
+- gall.html Arborophila torqueola griseata;
+- pa48.html Sitta solangiae ;
+- pa48.html Sitta solangiae solangiae
+
+-------------
+
+The link ../cit/jourk.html#K.Vet.Akad.NyaHandl. is associated with 
+- K.Vet.Akad.NyaHandl. 11 times;
+- K.Vet.-Akad.Handl. 3 times;
+
+----LOCATION SPECIFICS---
+
+K.Vet.-Akad.Handl. is found in: 
+- acci.html GENUS: ACCIPITRIFORMES ACCIPITRIDAE Leptodon;
+- pa08.html GENUS: PASSERIFORMES TYRANNIDAE Elaenia;
+- pa08.html GENUS: PASSERIFORMES TYRANNIDAE Corythopis
+
+-------------
+
+The link ../cit/jourm.html#Man.Orn.[Temminck] is associated with 
+- Man.Orn.[Temminck].ed.2 40 times;
+- Man.Orn.[Temminck].ed.1["1814"] 5 times;
+
+----LOCATION SPECIFICS---
+
+Man.Orn.[Temminck].ed.1["1814"] is found in: 
+- char.html Chlidonias leucopterus ;
+- char.html Stercorarius pomarinus ;
+- apod.html Tachymarptis melba africanus;
+- apod.html Tachymarptis melba africanus;
+- pa4d.html GENUS: PASSERIFORMES STURNIDAE Pastor
+
+-------------
+
+The link ../cit/jourk.html#K.SvenskaVetensk.Akad.Handl. is associated with 
+- K.SvenskaVetensk.Akad.Handl.Ser.3 3 times;
+- K.SvenskaVetensk.Akad.Handl. 2 times;
+
+----LOCATION SPECIFICS---
+
+K.SvenskaVetensk.Akad.Handl.Ser.3 is found in: 
+- pici.html Campephilus rubricollis olallae;
+- pa6s.html Lampropsar tanagrinus macropterus;
+- pa66.html Cyanerpes caeruleus hellmayri
+K.SvenskaVetensk.Akad.Handl. is found in: 
+- suli.html Leucocarbo georgianus ;
+- pa3x.html Pycnonotus flaviventris johnsoni
+
+-------------
+
+The link ../cit/jourr.html#RegneAnim. is associated with 
+- RegneAnim.["1817"] 19 times;
+- RegneAnim. 1 times;
+
+----LOCATION SPECIFICS---
+
+RegneAnim. is found in: 
+- pa07.html Procnias averano carnobarba
+
+-------------
+
+The link ../cit/jourj.html#J.Linn.Soc.LondonZool. is associated with 
+- J.Linn.Soc.LondonZool. 29 times;
+- J.Proc.Linn.Soc.LondonZool. 3 times;
+
+----LOCATION SPECIFICS---
+
+J.Proc.Linn.Soc.LondonZool. is found in: 
+- pa22.html Origma murina ;
+- pa22.html Origma murina murina;
+- pa26.html GENUS: PASSERIFORMES MELANOCHARITIDAE Melanocharis
+
+-------------
+
+The link ../cit/jourj.html#J.Acad.Nat.Sci.Philadelphia is associated with 
+- J.Acad.Nat.Sci.Philadelphia 26 times;
+- J.Acad.Nat.Sci.Philadelphia(n.s.) 2 times;
+
+----LOCATION SPECIFICS---
+
+J.Acad.Nat.Sci.Philadelphia(n.s.) is found in: 
+- cucu.html Piaya cayana macroura;
+- pa08.html Myiodynastes bairdii 
+
+-------------
+
+The link ../cit/jourl.html#LeNat. is associated with 
+- LeNat.(2) 10 times;
+- LeNat. 5 times;
+
+----LOCATION SPECIFICS---
+
+LeNat. is found in: 
+- colu.html Ptilinopus marchei ;
+- cucu.html Pachycoccyx audeberti brazzae;
+- cora.html Todiramphus nigrocyaneus quadricolor;
+- buce.html Anthracoceros marchei ;
+- pa3q.html Phedina brazzae 
+
+-------------
+
+The link ../cit/joura.html#Ann.Sci.Phys.Nat.Agric.Ind.(2) is associated with 
+- Ann.Sci.Phys.Nat.Agric.Ind.(2) 10 times;
+- Ann.Sci.Phys.Nat.Agric.Ind. 2 times;
+
+----LOCATION SPECIFICS---
+
+Ann.Sci.Phys.Nat.Agric.Ind. is found in: 
+- apod.html Adelomyia melanogenys sabinae;
+- apod.html Adelomyia melanogenys sabinae
+
+-------------
+
+The link ../cit/journ.html#Nouv.Arch.Mus.Hist.Nat. is associated with 
+- Nouv.Arch.Mus.Hist.Nat. 9 times;
+- Nouv.Arch.Mus.Hist.Nat.Bull. 1 times;
+
+----LOCATION SPECIFICS---
+
+Nouv.Arch.Mus.Hist.Nat.Bull. is found in: 
+- pici.html Dendrocopos darjellensis desmursi
+
+-------------
+
+The link ../cit/jourd.html#Dict.Univ.Hist.Nat.[Orbigny,C] is associated with 
+- Dict.Univ.Hist.Nat.[Orbigny,C] 4 times;
+- Dict.Univ.Hist.Nat.[Orbigny] 1 times;
+
+----LOCATION SPECIFICS---
+
+Dict.Univ.Hist.Nat.[Orbigny,C] is found in: 
+- pa05.html GENUS: PASSERIFORMES FURNARIIDAE Anabazenops;
+- pa05.html GENUS: PASSERIFORMES FURNARIIDAE Anabacerthia;
+- pa05.html Anabacerthia striaticollis ;
+- pa05.html Anabacerthia striaticollis striaticollis
+Dict.Univ.Hist.Nat.[Orbigny] is found in: 
+- pici.html GENUS: PICIFORMES LYBIIDAE Pogoniulus
+
+-------------
+
+The link ../cit/jourm.html#Mem.Acad.Imp.Sci.St.Petersb. is associated with 
+- Mem.Acad.Imp.Sci.St.Petersb. 13 times;
+- Mem.Pres.Acad.Imp.Sci.St.Petersb. 10 times;
+
+----LOCATION SPECIFICS---
+
+
+-------------
+

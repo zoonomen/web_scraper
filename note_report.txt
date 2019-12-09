@@ -1,0 +1,236 @@
+NOTE: Nomenclature Citation
+----------
+- apte.html Apteryx haastii 
+- pa09.html GENUS: PASSERIFORMES THAMNOPHILIDAE Myrmornis
+- pa3c.html GENUS: PASSERIFORMES PARADISAEIDAE Semioptera
+
+NOTE: Type locality
+----------
+- anse.html Branta canadensis moffitti
+- pa6d.html Melospiza melodia atlantica
+
+NOTE: Status
+----------
+- anse.html Aythya innotata 
+- pici.html Campephilus principalis 
+- pici.html Campephilus principalis principalis
+- psit.html Conuropsis carolinensis 
+
+NOTE: Extinct
+----------
+- anse.html Camptorhynchus labradorius 
+- char.html Pinguinus impennis 
+- colu.html Ectopistes migratorius 
+- pa61.html Vermivora bachmanii 
+
+NOTE: 3 p.542
+----------
+- pele.html Ardea herodias occidentalis
+
+NOTE: 3 p.387
+----------
+- suli.html Phalacrocorax auritus floridanus
+
+NOTE: Citation Systematics
+----------
+- acci.html Clanga hastata 
+
+NOTE: Author spelling
+----------
+- otid.html GENUS: OTIDIFORMES OTIDIDAE Ardeotis
+
+NOTE: Author Citation Nomenclature
+----------
+- otid.html Eupodotis coerulescens 
+
+NOTE: 3 p.27
+----------
+- grui.html Rallus elegans 
+- grui.html Rallus elegans elegans
+
+NOTE: Citation Concept
+----------
+- grui.html Porzana tabuensis 
+
+NOTE: Etymology
+----------
+- char.html GENUS: CHARADRIIFORMES CHARADRIIDAE Charadrius
+- char.html Limosa lapponica baueri
+- pa09.html Herpsilochmus sellowi 
+- pa4c.html Xanthomixis apperti 
+
+NOTE: Author/Citation
+----------
+- char.html GENUS: CHARADRIIFORMES SCOLOPACIDAE Lymnocryptes
+
+NOTE: Nomenclature Concept
+----------
+- colu.html Columba torringtoniae 
+- pa4w.html Ploceus alienus 
+
+NOTE: Citation Date
+----------
+- muso.html GENUS: MUSOPHAGIFORMES MUSOPHAGIDAE Tauraco
+- pa4d.html Streptocitta albertinae 
+
+NOTE: Note
+----------
+- stri.html Otus collari 
+- pa05.html Leptasthenura fuliginiceps paranensis
+- pa38.html Symposiachrus browni 
+- pa38.html Symposiachrus browni browni
+
+NOTE: Type ?
+----------
+- cora.html GENUS: CORACIIFORMES ALCEDINIDAE Todiramphus
+
+NOTE: Concept Citation
+----------
+- psit.html Psittacula wardi 
+- psit.html Eos bornea 
+- pa49.html Salpornis spilonota 
+- pa49.html Salpornis spilonota spilonota
+
+NOTE: Concept Name
+----------
+- psit.html Trichoglossus haematodus 
+- psit.html Trichoglossus haematodus haematodus
+
+NOTE: Citation Nomenclature
+----------
+- pa05.html Synallaxis brachyura nigrifumosa
+
+NOTE: 1 p.236
+----------
+- pa08.html Empidonax traillii 
+- pa08.html Empidonax traillii traillii
+
+NOTE: David,N
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: ,
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: Gregory
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: Jobling
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: Steinheimer,FD
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: , &
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: Brito,GRR
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: Zootaxa
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: 4121 p.93
+----------
+- pa06.html GENUS: PASSERIFORMES PIPRIDAE Pseudopipra
+
+NOTE: O.D.
+----------
+- pa1m.html Atrichornis rufescens 
+- pa1m.html Atrichornis rufescens rufescens
+
+NOTE: Nomenclature-Systematics
+----------
+- pa38.html Pomarea pomarea 
+
+NOTE: 4 p.450
+----------
+- pa39.html Pica nuttalli 
+
+NOTE: Nomenclature Author Citation
+----------
+- pa3c.html Semioptera wallacii 
+- pa3c.html Semioptera wallacii wallacii
+
+NOTE: Spelling
+----------
+- pa3x.html Hemixos flavala hildebrandi
+
+NOTE: p.52
+----------
+- pa3v.html Calamonastes stierlingi pintoi
+
+NOTE: p.337
+----------
+- pa3v.html Calamonastes fasciolatus europhilus
+
+NOTE: Revision per IOC needed
+----------
+- pa3z.html GENUS: PASSERIFORMES TIMALIIDAE Pomatorhinus
+
+NOTE: p.1 pl.57bis
+----------
+- pa4b.html Margarops fuscatus 
+- pa4b.html Margarops fuscatus fuscatus
+
+NOTE: Authority
+----------
+- pa4d.html Cinnyricinclus leucogaster verreauxi
+
+NOTE: {note: ? Mayr shows p.2}
+----------
+- pa4t.html Aethopyga primigenia 
+- pa4t.html Aethopyga primigenia primigenia
+
+NOTE: st
+----------
+- pa4w.html Ploceus ocularis 
+- pa4w.html Ploceus ocularis ocularis
+
+NOTE: )
+----------
+- pa4w.html Ploceus ocularis 
+- pa4w.html Ploceus ocularis ocularis
+
+NOTE: <a href="./n/l.html#LonchuraConcept" target="ref_fr">Concept</a>
+----------
+- pa4x.html GENUS: PASSERIFORMES ESTRILDIDAE Lonchura
+
+NOTE: Systematics Citation
+----------
+- pa4x.html Heteromunia pectoralis 
+
+NOTE: James
+----------
+- pa60.html GENUS: PASSERIFORMES FRINGILLIDAE Akialoa
+
+NOTE: Proc.Biol.Soc.Wash.
+----------
+- pa60.html GENUS: PASSERIFORMES FRINGILLIDAE Akialoa
+
+NOTE: 108 p.373-387
+----------
+- pa60.html GENUS: PASSERIFORMES FRINGILLIDAE Akialoa
+
+NOTE: Melospiza melodia Systematics
+----------
+- pa6d.html GENUS: PASSERIFORMES PASSERELLIDAE Melospiza
+
+NOTE: 1 p.360
+----------
+- pa6d.html Ammodramus henslowii 
+- pa6d.html Ammodramus henslowii henslowii
+
+NOTE: 335
+----------
+- pa66.html Hemithraupis guira 
+

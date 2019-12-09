@@ -1,0 +1,1183 @@
+../bio/bidm.html#Dwight -- pa6d.html Junco hyemalis cismontanus
+../bio/bio.html#Silveira,LF -- acci.html GENUS: ACCIPITRIFORMES ACCIPITRIDAE Cryptoleucopteryx
+../bio/bioJ.html#Jiang,AW -- gall.html Arborophila gingica guangxiensis
+../bio/bioa.html#Alexio -- pa05.html Campylorhamphus procurvoides cardosoi
+../bio/bioa.html#Alexio -- pa05.html Campylorhamphus procurvoides gyldenstolpei
+../bio/bioa.html#Alexio -- pa05.html Dendrocolaptes certhia retentus
+../bio/bioa.html#Alexio -- pa05.html Lepidocolaptes fatimalimae 
+../bio/bioa.html#Alexio -- pa08.html Hemitriccus cohnhafti 
+../bio/bioa.html#Alexio -- pa09.html Myrmotherula iheringi oreni
+../bio/bioa.html#Alexio -- pa1e.html Hylopezus whittakeri 
+../bio/bioa.html#Alexio -- pa47.html Polioptila attenboroughi 
+../bio/bioa.html#Alexio -- pici.html Nystalus obamai 
+../bio/bioa.html#Alvarez%20del%20Torro -- capr.html Chordeiles minor neotropicalis
+../bio/bioa.html#Ascanio -- pa05.html Synallaxis beverlyae 
+../bio/bioa.html#Ascanio -- pa05.html Thripophaga amacurensis 
+../bio/bioa.html#Cohn-Haft -- pa09.html Herpsilochmus praedictus 
+../bio/bioa.html#Cohn-Haft -- pa09.html Herpsilochmus stotzi 
+../bio/bioa.html#Cohn-Haft -- pa09.html Hypocnemis rondoni 
+../bio/bioa.html#Cohn-Haft -- pa39.html Cyanocorax heilprini hafferi
+../bio/biob.htmb#Baird,SF -- pa05.html Xiphorhynchus flavigaster mentalis
+../bio/biob.htmb#Baird,SF -- pa66.html Sporophila torqueola atriceps
+../bio/biob.htmb#Bannerman -- gall.html Pternistis ahantensis hopkinsoni
+../bio/biob.htmb#Bannerman -- pa4e.html Illadopsis cleaveri poensis
+../bio/biob.html#Blasius -- gall.html GENUS: GALLIFORMES PHASIANIDAE Tetrastes
+../bio/biob.html#Blasius -- pa35.html Pachycephala homeyeri 
+../bio/biob.html#Blasius -- pa35.html Pachycephala homeyeri homeyeri
+../bio/biob.html#Blasius -- pa3n.html Sittiparus semilarvatus nehrkorni
+../bio/biob.html#Blasius -- pa3x.html Hypsipetes everetti haynaldi
+../bio/biob.html#Blasius -- pici.html Dryocopus javensis suluensis
+../bio/biob.html#Blasius -- proc.html GENUS: PROCELLARIIFORMES HYDROBATIDAE Oceanites
+../bio/biob.html#Boie,F -- anse.html GENUS: ANSERIFORMES ANATIDAE Aix
+../bio/biob.html#Boie,F -- anse.html GENUS: ANSERIFORMES ANATIDAE Aythya
+../bio/biob.html#Boie,F -- anse.html GENUS: ANSERIFORMES ANATIDAE Melanitta
+../bio/biob.html#Boie,F -- anse.html GENUS: ANSERIFORMES ANATIDAE Spatula
+../bio/biob.html#Boie,F -- anse.html GENUS: ANSERIFORMES ANATIDAE Tadorna
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Anthracothorax
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Basilinna
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Calliphlox
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Chrysolampis
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Eulampis
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Glaucis
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Heliactin
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Heliothryx
+../bio/biob.html#Boie,F -- apod.html GENUS: APODIFORMES TROCHILIDAE Hylocharis
+../bio/biob.html#Boie,F -- char.html Anous minutus 
+../bio/biob.html#Boie,F -- char.html Anous minutus minutus
+../bio/biob.html#Boie,F -- char.html GENUS: CHARADRIIFORMES LARIDAE Sternula
+../bio/biob.html#Boie,F -- char.html GENUS: CHARADRIIFORMES LARIDAE Thalasseus
+../bio/biob.html#Boie,F -- char.html GENUS: CHARADRIIFORMES SCOLOPACIDAE Lymnocryptes
+../bio/biob.html#Boie,F -- cora.html GENUS: CORACIIFORMES ALCEDINIDAE Ceryle
+../bio/biob.html#Boie,F -- cucu.html GENUS: CUCULIFORMES CUCULIDAE Chrysococcyx
+../bio/biob.html#Boie,F -- pa07.html GENUS: PASSERIFORMES COTINGIDAE Lipaugus
+../bio/biob.html#Boie,F -- pa08.html GENUS: PASSERIFORMES TYRANNIDAE Knipolegus
+../bio/biob.html#Boie,F -- pa08.html GENUS: PASSERIFORMES TYRANNIDAE Xolmis
+../bio/biob.html#Boie,F -- pa08.html Knipolegus lophotes 
+../bio/biob.html#Boie,F -- pa2a.html GENUS: PASSERIFORMES PLATYSTEIRIDAE Batis
+../bio/biob.html#Boie,F -- pa2b.html GENUS: PASSERIFORMES MALACONOTIDAE Dryoscopus
+../bio/biob.html#Boie,F -- pa2q.html GENUS: PASSERIFORMES CAMPEPHAGIDAE Lalage
+../bio/biob.html#Boie,F -- pa2q.html GENUS: PASSERIFORMES CAMPEPHAGIDAE Pericrocotus
+../bio/biob.html#Boie,F -- pa38.html GENUS: PASSERIFORMES MONARCHIDAE Hypothymis
+../bio/biob.html#Boie,F -- pa39.html GENUS: PASSERIFORMES CORVIDAE Cissa
+../bio/biob.html#Boie,F -- pa39.html GENUS: PASSERIFORMES CORVIDAE Cyanocorax
+../bio/biob.html#Boie,F -- pa3q.html GENUS: PASSERIFORMES HIRUNDINIDAE Atticora
+../bio/biob.html#Boie,F -- pa3q.html GENUS: PASSERIFORMES HIRUNDINIDAE Cecropis
+../bio/biob.html#Boie,F -- pa3q.html GENUS: PASSERIFORMES HIRUNDINIDAE Progne
+../bio/biob.html#Boie,F -- pa3t.html GENUS: PASSERIFORMES PHYLLOSCOPIDAE Phylloscopus
+../bio/biob.html#Boie,F -- pa3u.html GENUS: PASSERIFORMES ALAUDIDAE Eremophila
+../bio/biob.html#Boie,F -- pa3u.html GENUS: PASSERIFORMES ALAUDIDAE Galerida
+../bio/biob.html#Boie,F -- pa3u.html GENUS: PASSERIFORMES ALAUDIDAE Melanocorypha
+../bio/biob.html#Boie,F -- pa3x.html GENUS: PASSERIFORMES PYCNONOTIDAE Pycnonotus
+../bio/biob.html#Boie,F -- pa4b.html GENUS: PASSERIFORMES MIMIDAE Mimus
+../bio/biob.html#Boie,F -- pa66.html GENUS: PASSERIFORMES THRAUPIDAE Sicalis
+../bio/biob.html#Boie,F -- pa66.html GENUS: PASSERIFORMES THRAUPIDAE Thraupis
+../bio/biob.html#Boie,F -- pele.html GENUS: PELECANIFORMES ARDEIDAE Ardeola
+../bio/biob.html#Boie,F -- pici.html GENUS: PICIFORMES PICIDAE Celeus
+../bio/biob.html#Boie,F -- pici.html GENUS: PICIFORMES PICIDAE Dryobates
+../bio/biob.html#Boie,F -- pici.html GENUS: PICIFORMES PICIDAE Dryocopus
+../bio/biob.html#Boie,F -- proc.html GENUS: PROCELLARIIFORMES DIOMEDEIDAE Hydrobates
+../bio/biob.html#Boie,F -- psit.html GENUS: PSITTACIFORMES PSITTACIDAE Forpus
+../bio/biob.html#Boie,F -- stri.html GENUS: STRIGIFORMES STRIGIDAE Athene
+../bio/biob.html#Boie,F -- stri.html GENUS: STRIGIFORMES STRIGIDAE Glaucidium
+../bio/biob.html#Bowen -- psit.html Poicephalus cryptoxanthus tanganyikae
+../bio/biob.html#Braun,CE -- gall.html Centrocercus minimus 
+../bio/biob.html#Braveja -- pa1y.html Myzomela irianawidodoae 
+../bio/biob.html#Bretagnolle -- proc.html Pterodroma brevipes magnificens
+../bio/biob.html#Bruggeman -- colu.html Cryptophaps poecilorrhoa 
+../bio/biob.html#Bryant, H -- pa66.html Coereba flaveola portoricensis
+../bio/biob.html#duPont -- cora.html Halcyon coromanda claudiae
+../bio/biob.html#duPont -- cora.html Halcyon coromanda linae
+../bio/biob.html#duPont -- pa2q.html Edolisoma coerulescens deschauenseei
+../bio/biob.html#duPont -- pa3z.html Macronus striaticeps alcasidi
+../bio/biob.html#duPont -- pa40.html Zosterops japonicus parkesi
+../bio/biob.html#duPont -- stri.html Ninox philippensis ticaoensis
+../bio/bioc.html#Caparroz,R -- psit.html GENUS: PSITTACIFORMES PSITTACIDAE Alipiopsitta
+../bio/bioc.html#Cardiff -- pa09.html Percnostola rufifrons jensoni
+../bio/bioc.html#Carling -- grui.html Rallus longirostris berryorum
+../bio/bioc.html#Carniero,AM -- pa1e.html Hylopezus whittakeri 
+../bio/bioc.html#Chamnan -- pa3v.html Orthotomus chaktomuk 
+../bio/bioc.html#Chaves -- pa05.html Cinclodes pabsti espinhacensis
+../bio/bioc.html#Christidis -- acci.html Circaetus gallicus sacerdotis
+../bio/bioc.html#Christidis -- apod.html Collocalia esculenta lagonoleucos
+../bio/bioc.html#Christidis -- apod.html Collocalia sumbawae sumbae
+../bio/bioc.html#Christidis -- pa22.html GENUS: PASSERIFORMES ACANTHIZIDAE Neosericornis
+../bio/bioc.html#Christidis -- pa3b.html GENUS: PASSERIFORMES MELAMPITTIDAE Megalampitta
+../bio/bioc.html#Christidis -- pa3t.html Phylloscopus intensior muleyitensis
+../bio/bioc.html#Christidis -- pa3t.html Phylloscopus presbytes floresianus
+../bio/bioc.html#Couloux -- pa3v.html GENUS: PASSERIFORMES CISTICOLIDAE Oreolais
+../bio/bioc.html#Cracraft -- pa05.html GENUS: PASSERIFORMES FURNARIIDAE Certhiasomus
+../bio/bioc.html#Cruaud -- pa3v.html GENUS: PASSERIFORMES CISTICOLIDAE Oreolais
+../bio/bioc.html#Oliveros,C -- pa4a.html Robsonius thompsoni 
+../bio/biod.html#Capote,N -- acci.html Neophron percnopterus majorensis
+../bio/biod.html#Ceballos,O -- acci.html Neophron percnopterus majorensis
+../bio/biod.html#Davis -- pa09.html Herpsilochmus parkeri 
+../bio/biod.html#Davis -- pa39.html Corvus sinaloae 
+../bio/biod.html#Dekker -- pa4p.html Chloropsis cochinchinensis auropectus
+../bio/biod.html#Delaco ur -- gall.html Arborophila chloropus tonkinensis
+../bio/biod.html#Deraniyagala -- cora.html Eurystomus orientalis irisi
+../bio/biod.html#Dingle -- pa46.html Cistothorus palustris waynei
+../bio/biod.html#Dowsett -- pa60.html Crithagra scotops kirbyi
+../bio/biod.html#Gangoso.L -- acci.html Neophron percnopterus majorensis
+../bio/biod.html#Godoy,JA -- acci.html Neophron percnopterus majorensis
+../bio/biod.html#Hellmayr -- pa50.html Anthus correndera catamarcae
+../bio/biod.html#Hellmayr -- pa50.html Anthus hellmayri brasilianus
+../bio/biod.html#Hellmayr -- pa50.html Anthus hellmayri dabbenei
+../bio/biod.html#Hiraldo,F -- acci.html Neophron percnopterus majorensis
+../bio/biod.html#Negro,JJ -- acci.html Neophron percnopterus majorensis
+../bio/biod.html#Palacios,CJ -- acci.html Neophron percnopterus majorensis
+../bio/bioe.html#Elzen -- pa40.html Zosterops senegalensis gerhardi
+../bio/biof#Forshaw -- colu.html Pampusana norfolkensis 
+../bio/biof.html#Fahy -- proc.html Oceanites pincoyae 
+../bio/biof.html#Fernandes,AM -- pa39.html Cyanocorax heilprini hafferi
+../bio/biof.html#Fraga -- pa4j.html Turdus serranus continoi
+../bio/biof.html#Friedman -- acci.html Chondrohierax uncinatus mirus
+../bio/biof.html#Friedman -- gall.html Dendrortyx macroura diversus
+../bio/biof.html#Friedman -- pa4d.html Neocichla gutturalis angusta
+../bio/biof.html#Friedman -- pa4m.html#Promeropidae Promerops gurneyi ardens
+../bio/biog.html# Garrido -- capr.html Siphonorhis brewsteri gonavensis
+../bio/biog.html# Garrido -- stri.html Asio flammeus cubensis
+../bio/biog.html# Garrido -- stri.html Glaucidium siju turquinense
+../bio/biog.html#Gaban-Lima,R -- psit.html Pyrilia aurantiocephala 
+../bio/biog.html#Galbraith -- pa2q.html Coracina welchmani amadonis
+../bio/biog.html#Galbraith -- pa3e.html Petroica pusilla dennisi
+../bio/biog.html#Galbraith -- pa4a.html Cincloramphus whitneyi turipavae
+../bio/biog.html#Galbraith -- pa4j.html Turdus poliocephalus sladeni
+../bio/biog.html#Galbraith -- pa4j.html Zoothera turipavae 
+../bio/biog.html#George,WG -- pa60.html Spinus crassirostris amadoni
+../bio/biog.html#Giraud -- pa6s.html Icterus graduacauda audubonii
+../bio/biog.html#Gonzlaes -- pa4t.html Aethopyga boltoni tibolii
+../bio/biog.html#Gonzlaes -- pa4t.html Aethopyga linaraborae 
+../bio/biog.html#Gotz -- cora.html Halcyon smyrnensis fokiensis
+../bio/biog.html#GravesJA -- pa46.html GENUS: PASSERIFORMES TROGLODYTIDAE Cantorchilus
+../bio/bioh.html#Haring -- acci.html GENUS: ACCIPITRIFORMES ACCIPITRIDAE Cryptoleucopteryx
+../bio/bioh.html#Hellmary -- apod.html Chaetura meridionalis 
+../bio/bioh.html#Howe -- gall.html Colinus virginianus insulanus
+../bio/bioh.html#Howe -- pa6d.html Passerculus sandwichensis labradorius
+../bio/bioh.html#Howell -- apod.html Amazilia cyanocephala chlorostephana
+../bio/bioh.html#Howell -- falc.html Falco sparverius nicaraguensis
+../bio/bioh.html#Howell -- pa08.html Pyrocephalus obscurus pinicola
+../bio/bioh.html#Howell -- pa4j.html Sialia sialis caribaea
+../bio/bioh.html#Howell -- pa65.html Piranga hepatica savannarum
+../bio/bioh.html#Howell -- pa6d.html Peucaea botterii spadiconigrescens
+../bio/bioh.html#Hupp,JW -- gall.html Centrocercus minimus 
+../bio/bioh.html#VanRossem -- pa6d.html Passerculus sandwichensis atratus
+../bio/bioi.html#Ijima -- pa3n.html Sittiparus owstoni 
+../bio/bioi.html#Ingram,C -- char.html Turnix maculosus horsbrughi
+../bio/bioi.html#Ingram,C -- cucu.html Eudynamys scolopaceus harterti
+../bio/bioi.html#Ingram,C -- gall.html Tetrao urogallus aquitanicus
+../bio/bioi.html#Ingram,C -- pa1y.html Gavicalis virescens forresti
+../bio/bioi.html#Ingram,C -- pa2z.html Pnoepyga formosana 
+../bio/bioi.html#Ingram,C -- pa39.html Nucifraga caryocatactes owstoni
+../bio/bioi.html#Ingram,C -- pa3s.html Aegithalos caudatus taiti
+../bio/bioi.html#Ingram,C -- pa3u.html Mirafra javanica rufescens
+../bio/bioj.html #Jouanin -- pele.html Ardea cinerea monicae
+../bio/bioj.html #Jouventin -- proc.html Diomedea amsterdamensis 
+../bio/bioj.html#James -- pa60.html GENUS: PASSERIFORMES FRINGILLIDAE Akialoa
+../bio/bioj.html#Johnson,AB -- stri.html Bubo virginianus pinorum
+../bio/biok.html#Kearst -- pa2i.html Artamus cinereus inkermani
+../bio/biok.html#Kelaart -- colu.html Columba torringtoniae 
+../bio/biok.html#Klicka -- pa6d.html GENUS: PASSERIFORMES PASSERELLIDAE Artemisiospiza
+../bio/biok.html#Koneig,C -- stri.html Glaucidium bolivianum 
+../bio/biok.html#Kumerloeve -- pa2y.html Panurus biarmicus kosswigi
+../bio/biol.html#Kazakov -- pa3w.html Acrocephalus melanopogon albiventris
+../bio/biol.html#Lack -- apod.html Apus salimalii 
+../bio/biol.html#Lane -- apod.html Heliangelus regalis johnsoni
+../bio/biol.html#Lane -- pa08.html Cnipodectes superrufus 
+../bio/biol.html#Lane -- pa4j.html Turdus sanchezorum 
+../bio/biol.html#Lane -- stri.html Megascops koepckeae hockingi
+../bio/biol.html#Laxmann -- pa3q.html Cecropis daurica 
+../bio/biol.html#Laxmann -- pa3q.html Cecropis daurica daurica
+../bio/biol.html#Le%20Souef -- casu.html Dromaius novaehollandiae diemenensis
+../bio/biol.html#Le%20Souef -- gall.html Alectura lathami purpureicollis
+../bio/biol.html#LeMaout -- acci.html GENUS: ACCIPITRIFORMES CATHARTIDAE Coragyps
+../bio/biol.html#Leverkuhn -- colu.html Patagioenas plumbea bogotensis
+../bio/biol.html#Leverkuhn -- pa05.html Synallaxis cabanisi 
+../bio/biol.html#Leverkuhn -- pa05.html Synallaxis cabanisi cabanisi
+../bio/biol.html#Leverkuhn -- pa05.html Xiphorhynchus ocellatus lineatocapilla
+../bio/biol.html#Leverkuhn -- pa08.html Myiarchus tyrannulus bahiae
+../bio/biol.html#Leverkuhn -- pa09.html Myrmotherula behni 
+../bio/biol.html#Leverkuhn -- pa09.html Myrmotherula behni behni
+../bio/biol.html#Leverkuhn -- pa1e.html Grallaria varia intercedens
+../bio/biol.html#Leverkuhn -- pa46.html Troglodytes aedon rex
+../bio/biol.html#Leverkuhn -- pa6s.html Gnorimopsar chopi megistus
+../bio/biol.html#Leverkuhn -- pa6s.html Leistes loyca falklandicus
+../bio/biol.html#Lezana -- stri.html Megascops koepckeae hockingi
+../bio/biol.html#Li -- pa3z.html Spelaeornis troglodytoides nanchuanensis
+../bio/biol.html#Lopes -- apod.html Campylopterus calcirupicola 
+../bio/biol.html#Lousada,SA -- psit.html Amazona oratrix hondurensis
+../bio/biol.htmo#Ogilvie-Grant -- falc.html Microhierax erythrogenys meridionalis
+../bio/biol.htmo#Ogilvie-Grant -- gall.html Scleroptila levaillantii crawshayi
+../bio/biol.htmo#Ogilvie-Grant -- gall.html Scleroptila levaillantii kikuyuensis
+../bio/biol.htmo#Ogilvie-Grant -- pa1y.html Xanthotis flaviventer spilogaster
+../bio/biol.htmo#Ogilvie-Grant -- pa2q.html Coracina striata cebuensis
+../bio/biol.htmo#Ogilvie-Grant -- pa34.html Oriolus steerii basilanicus
+../bio/biol.htmo#Ogilvie-Grant -- pa35.html Pachycephala soror bartoni
+../bio/biol.htmo#Ogilvie-Grant -- pa35.html Pachycephala soror klossi
+../bio/biol.htmo#Ogilvie-Grant -- pa3e.html Poecilodryas brachyura dumasi
+../bio/biol.htmo#Ogilvie-Grant -- pa4j.html Turdus poliocephalus mindorensis
+../bio/biol.htmo#Ogilvie-Grant -- pa4j.html Turdus poliocephalus nigrorum
+../bio/biol.htmo#Ogilvie-Grant -- psit.html Tanygnathus lucionensis salvadorii
+../bio/biol.htmo#Ogilvie-Grant -- stri.html Ninox mindorensis 
+../bio/biom#Mano -- grui.html Gallirallus okinawae 
+../bio/biom#McEvey -- pa1v.html Amytornis barbatus 
+../bio/biom#McEvey -- pa1v.html Amytornis barbatus barbatus
+../bio/biom.html #Mougin -- proc.html Diomedea amsterdamensis 
+../bio/biom.html#Maldonado-Coehlo,M,CD -- pa09.html GENUS: PASSERIFORMES THAMNOPHILIDAE Cercomacroides
+../bio/biom.html#March,WT -- pa4b.html Mimus gundlachii hillii
+../bio/biom.html#Marshall,GFL -- gall.html Pucrasia macrolopha biddulphi
+../bio/biom.html#Marshall,GFL -- pa2m.html Aegithina nigrolutea 
+../bio/biom.html#Marshall,GFL -- pici.html GENUS: PICIFORMES LYBIIDAE Stactolaema
+../bio/biom.html#Mauricio -- pa1a.html Scytalopus diamantinensis 
+../bio/biom.html#Mauricio -- pa1a.html Scytalopus gonzagai 
+../bio/biom.html#Mauricio -- pa1a.html Scytalopus pachecoi 
+../bio/biom.html#McAllen -- psit.html Platycercus elegans filewoodi
+../bio/biom.html#Meinertzhagen, A -- char.html Tringa totanus terrignotae
+../bio/biom.html#Meyer%20de%20S chauensee -- pa65.html Chlorothraupis stolzmanni dugandi
+../bio/biom.html#Meyer%20de%20Schauense -- pa66.html Saltator aurantiirostris hellmayri
+../bio/biom.html#Meyer%20de%20Schauense -- pa6d.html Atlapetes rufinucha carrikeri
+../bio/biom.html#Miller -- pa3n.html Poecile sclateri rayi
+../bio/biom.html#Milon -- cucu.html Coua cristata maxima
+../bio/biom.html#Monroe -- pa6d.html Arremonops chloronotus twomeyi
+../bio/biom.html#Mukherjee -- stri.html Otus brucei exiguus
+../bio/biom.htmlMuller,PLS -- cora.html Corythornis cristatus galeritus
+../bio/bion.html#Mauricio,GN -- pa1a.html GENUS: PASSERIFORMES RHINOCRYPTIDAE Eleoscytalopus
+../bio/bion.html#Naka -- pa05.html Lepidocolaptes fatimalimae 
+../bio/bion.html#Naka -- pa4j.html Turdus sanchezorum 
+../bio/bion.html#Natterer -- pici.html Celeus grammicus 
+../bio/bion.html#Natterer -- pici.html Celeus grammicus grammicus
+../bio/bion.html#Natterer -- pici.html Celeus undatus multifasciatus
+../bio/bion.html#Natterer -- pici.html Piculus leucolaemus 
+../bio/bion.html#Natterer -- pici.html Pteroglossus bitorquatus sturmii
+../bio/bion.html#Natterer -- pici.html Selenidera gouldii 
+../bio/bion.html#Natterer -- pici.html Veniliornis passerinus olivinus
+../bio/bion.html#Naumann,JA -- pa3w.html GENUS: PASSERIFORMES ACROCEPHALIDAE Acrocephalus
+../bio/bion.html#Naumann,JF -- char.html Fratercula corniculata 
+../bio/bion.html#Naumann,JF -- char.html Larus glaucescens 
+../bio/bion.html#Naumann,JF -- char.html Larus michahellis 
+../bio/bion.html#Naumann,JF -- char.html Larus michahellis michahellis
+../bio/bion.html#Naumann,JF -- char.html Limosa lapponica baueri
+../bio/bion.html#Naumann,JF -- pa3w.html GENUS: PASSERIFORMES ACROCEPHALIDAE Acrocephalus
+../bio/bion.html#Naumann,JF -- pa46.html Cistothorus stellaris 
+../bio/bion.html#Naumann,JF -- pa46.html Troglodytes aedon musculus
+../bio/bion.html#Naumburg -- colu.html Patagioenas picazuro marginalis
+../bio/bion.html#Naumburg -- grui.html Micropygia schomburgkii chapmani
+../bio/bion.html#Naumburg -- pa05.html Lepidocolaptes angustirostris hellmayri
+../bio/bion.html#Naumburg -- pa66.html Thraupis sayaca obscura
+../bio/bion.html#Naumburg -- tina.html Nothura maculosa cearensis
+../bio/bion.html#Naurois -- char.html Anous ceruleus murphyi
+../bio/bion.html#Naurois -- grui.html Gallirallus philippensis tounelieri
+../bio/bion.html#Naurois -- pa3u.html Galerida theklae huei
+../bio/bion.html#Naurois -- pa60.html Crithagra rufobrunnea fradei
+../bio/bion.html#Naurois -- pele.html Ardea purpurea bournei
+../bio/bion.html#Naurois -- pele.html Platalea leucorodia balsaci
+../bio/bion.html#Navarrete -- pa1e.html Grallaria ridgelyi 
+../bio/bion.html#Navarro -- apod.html Amazilia viridifrons villadai
+../bio/bion.html#Navarro -- apod.html Cypseloides storeri 
+../bio/bion.html#Neave -- pa38.html Trochocercus cyanomelas vivax
+../bio/bion.html#Neave -- pa3v.html Calamonastes undosus katangae
+../bio/bion.html#Neave -- pa4a.html Bradypterus baboecala msiri
+../bio/bion.html#Neave -- pa4x.html GENUS: PASSERIFORMES ESTRILDIDAE Paludipasser
+../bio/bion.html#Neave -- pa4x.html Paludipasser locustella 
+../bio/bion.html#Neave -- pa4x.html Paludipasser locustella locustella
+../bio/bion.html#Neave -- pa4y.html Vidua codringtoni 
+../bio/bion.html#Neboux -- char.html Creagrus furcatus 
+../bio/bion.html#Neboux -- colu.html Ptilinopus dupetithouarsii 
+../bio/bion.html#Neboux -- colu.html Ptilinopus dupetithouarsii dupetithouarsii
+../bio/bion.html#Nechaev -- char.html Calidris alpina actites
+../bio/bion.html#Nelson -- acci.html Buteo jamaicensis fumosus
+../bio/bion.html#Nelson -- acci.html Rostrhamus sociabilis major
+../bio/bion.html#Nelson -- apod.html GENUS: APODIFORMES TROCHILIDAE Goethalsia
+../bio/bion.html#Nelson -- apod.html GENUS: APODIFORMES TROCHILIDAE Goldmania
+../bio/bion.html#Nelson -- apod.html Goethalsia bella 
+../bio/bion.html#Nelson -- apod.html Goldmania violiceps 
+../bio/bion.html#Nelson -- apod.html Haplophaedia aureliae floccus
+../bio/bion.html#Nelson -- apod.html Streptoprocne rutila griseifrons
+../bio/bion.html#Nelson -- apod.html Thalurania ridgwayi 
+../bio/bion.html#Nelson -- capr.html Antrostomus arizonae chiapensis
+../bio/bion.html#Nelson -- capr.html Antrostomus arizonae oaxacae
+../bio/bion.html#Nelson -- capr.html Antrostomus ridgwayi 
+../bio/bion.html#Nelson -- capr.html Antrostomus ridgwayi ridgwayi
+../bio/bion.html#Nelson -- capr.html Nyctidromus albicollis insularis
+../bio/bion.html#Nelson -- capr.html Nyctidromus albicollis yucatanensis
+../bio/bion.html#Nelson -- colu.html Leptotila verreauxi capitalis
+../bio/bion.html#Nelson -- colu.html Patagioenas flavirostris madrensis
+../bio/bion.html#Nelson -- colu.html Zentrygon goldmani 
+../bio/bion.html#Nelson -- colu.html Zentrygon goldmani goldmani
+../bio/bion.html#Nelson -- cora.html Hylomanes momotula obscurus
+../bio/bion.html#Nelson -- cora.html Momotus lessonii goldmani
+../bio/bion.html#Nelson -- cora.html Momotus mexicanus saturatus
+../bio/bion.html#Nelson -- gall.html Callipepla gambelii fulvipectus
+../bio/bion.html#Nelson -- gall.html Colinus virginianus godmani
+../bio/bion.html#Nelson -- gall.html Colinus virginianus insignis
+../bio/bion.html#Nelson -- gall.html Colinus virginianus maculatus
+../bio/bion.html#Nelson -- gall.html Colinus virginianus minor
+../bio/bion.html#Nelson -- gall.html Colinus virginianus nigripectus
+../bio/bion.html#Nelson -- gall.html Colinus virginianus salvini
+../bio/bion.html#Nelson -- gall.html Crax rubra griscomi
+../bio/bion.html#Nelson -- gall.html Cyrtonyx montezumae mearnsi
+../bio/bion.html#Nelson -- gall.html Dactylortyx thoracicus chiapensis
+../bio/bion.html#Nelson -- gall.html Dactylortyx thoracicus devius
+../bio/bion.html#Nelson -- gall.html Dactylortyx thoracicus sharpei
+../bio/bion.html#Nelson -- gall.html Dendrortyx macroura griseipectus
+../bio/bion.html#Nelson -- gall.html Dendrortyx macroura oaxacae
+../bio/bion.html#Nelson -- gall.html Dendrortyx macroura striatus
+../bio/bion.html#Nelson -- gall.html Meleagris gallopavo merriami
+../bio/bion.html#Nelson -- grui.html Coturnicops noveboracensis goldmani
+../bio/bion.html#Nelson -- grui.html Rallus crepitans pallidus
+../bio/bion.html#Nelson -- pa05.html Margarornis bellulus 
+../bio/bion.html#Nelson -- pa05.html Sittasomus griseicapillus jaliscensis
+../bio/bion.html#Nelson -- pa05.html Xiphocolaptes promeropirhynchus omiltemensis
+../bio/bion.html#Nelson -- pa08.html Aphanotriccus audax 
+../bio/bion.html#Nelson -- pa08.html Empidonax affinis trepidus
+../bio/bion.html#Nelson -- pa08.html Empidonax albigularis timidus
+../bio/bion.html#Nelson -- pa08.html Empidonax fulvifrons fusciceps
+../bio/bion.html#Nelson -- pa08.html Empidonax occidentalis 
+../bio/bion.html#Nelson -- pa08.html Empidonax occidentalis occidentalis
+../bio/bion.html#Nelson -- pa08.html Myiarchus tuberculifer querulus
+../bio/bion.html#Nelson -- pa08.html Myiopagis viridicata jaliscensis
+../bio/bion.html#Nelson -- pa08.html Myiopagis viridicata minima
+../bio/bion.html#Nelson -- pa08.html Pseudotriccus pelzelni berlepschi
+../bio/bion.html#Nelson -- pa09.html Dysithamnus mentalis suffusus
+../bio/bion.html#Nelson -- pa09.html Herpsilochmus rufimarginatus exiguus
+../bio/bion.html#Nelson -- pa09.html Thamnistes anabatinus coronatus
+../bio/bion.html#Nelson -- pa1c.html Pachyramphus aglaiae sumichrasti
+../bio/bion.html#Nelson -- pa1c.html Pachyramphus major itzensis
+../bio/bion.html#Nelson -- pa1c.html Pachyramphus major uropygialis
+../bio/bion.html#Nelson -- pa1e.html Grallaria guatimalensis ochraceiventris
+../bio/bion.html#Nelson -- pa1e.html Grallaricula flavirostris brevis
+../bio/bion.html#Nelson -- pa33.html Vireo griseus micrus
+../bio/bion.html#Nelson -- pa33.html Vireo griseus perquisitor
+../bio/bion.html#Nelson -- pa33.html Vireo hypochryseus sordidus
+../bio/bion.html#Nelson -- pa33.html Vireo leucophrys strenuus
+../bio/bion.html#Nelson -- pa39.html Aphelocoma ultramarina colimae
+../bio/bion.html#Nelson -- pa39.html Aphelocoma unicolor guerrerensis
+../bio/bion.html#Nelson -- pa39.html Aphelocoma wollweberi potosina
+../bio/bion.html#Nelson -- pa39.html Aphelocoma woodhouseii grisea
+../bio/bion.html#Nelson -- pa39.html Calocitta formosa azurea
+../bio/bion.html#Nelson -- pa39.html Cyanocorax luxuosus speciosus
+../bio/bion.html#Nelson -- pa39.html Cyanolyca mirabilis 
+../bio/bion.html#Nelson -- pa3q.html Petrochelidon fulva pallida
+../bio/bion.html#Nelson -- pa3q.html Progne sinaloae 
+../bio/bion.html#Nelson -- pa3q.html Stelgidopteryx serripennis ridgwayi
+../bio/bion.html#Nelson -- pa3u.html Eremophila alpestris oaxacae
+../bio/bion.html#Nelson -- pa46.html Campylorhynchus capistratus nigricaudatus
+../bio/bion.html#Nelson -- pa46.html Campylorhynchus zonatus restrictus
+../bio/bion.html#Nelson -- pa46.html Cistothorus palustris tolucensis
+../bio/bion.html#Nelson -- pa46.html GENUS: PASSERIFORMES TROGLODYTIDAE Hylorchilus
+../bio/bion.html#Nelson -- pa46.html Henicorhina leucophrys capitalis
+../bio/bion.html#Nelson -- pa46.html Henicorhina leucophrys festiva
+../bio/bion.html#Nelson -- pa46.html Henicorhina leucophrys mexicana
+../bio/bion.html#Nelson -- pa46.html Pheugopedius felix grandis
+../bio/bion.html#Nelson -- pa46.html Pheugopedius felix magdalenae
+../bio/bion.html#Nelson -- pa46.html Pheugopedius felix pallidus
+../bio/bion.html#Nelson -- pa46.html Salpinctes obsoletus neglectus
+../bio/bion.html#Nelson -- pa46.html Thryophilus sinaloa russeus
+../bio/bion.html#Nelson -- pa46.html Troglodytes aedon peninsularis
+../bio/bion.html#Nelson -- pa46.html Troglodytes ochraceus festinus
+../bio/bion.html#Nelson -- pa46.html Uropsila leucogastra pacifica
+../bio/bion.html#Nelson -- pa48.html Sitta carolinensis mexicana
+../bio/bion.html#Nelson -- pa4b.html Melanotis caerulescens longirostris
+../bio/bion.html#Nelson -- pa4b.html Toxostoma curvirostre maculatum
+../bio/bion.html#Nelson -- pa4j.html Catharus fuscater mirabilis
+../bio/bion.html#Nelson -- pa4j.html Catharus occidentalis fulvescens
+../bio/bion.html#Nelson -- pa4j.html Catharus occidentalis olivascens
+../bio/bion.html#Nelson -- pa4j.html Myadestes coloratus 
+../bio/bion.html#Nelson -- pa4j.html Turdus grayi tamaulipensis
+../bio/bion.html#Nelson -- pa4j.html Turdus plebejus differens
+../bio/bion.html#Nelson -- pa60.html Euphonia xanthogaster quitensis
+../bio/bion.html#Nelson -- pa60.html Hesperiphona abeillei cobanensis
+../bio/bion.html#Nelson -- pa60.html Hesperiphona abeillei pallida
+../bio/bion.html#Nelson -- pa61.html Basileuterus belli scitulus
+../bio/bion.html#Nelson -- pa61.html Basileuterus ignotus 
+../bio/bion.html#Nelson -- pa61.html Basileuterus melanogenys eximius
+../bio/bion.html#Nelson -- pa61.html Basileuterus rufifrons caudatus
+../bio/bion.html#Nelson -- pa61.html Geothlypis trichas chapalensis
+../bio/bion.html#Nelson -- pa61.html Geothlypis trichas modesta
+../bio/bion.html#Nelson -- pa61.html Setophaga goldmani 
+../bio/bion.html#Nelson -- pa65.html Cardinalis cardinalis affinis
+../bio/bion.html#Nelson -- pa65.html Cardinalis cardinalis littoralis
+../bio/bion.html#Nelson -- pa65.html Cardinalis cardinalis mariae
+../bio/bion.html#Nelson -- pa65.html Cardinalis cardinalis sinaloensis
+../bio/bion.html#Nelson -- pa65.html Caryothraustes canadensis simulans
+../bio/bion.html#Nelson -- pa65.html Habia rubica affinis
+../bio/bion.html#Nelson -- pa65.html Habia rubica rosea
+../bio/bion.html#Nelson -- pa65.html Passerina caerulea chiapensis
+../bio/bion.html#Nelson -- pa66.html Chrysothlypis chrysomelas ocularis
+../bio/bion.html#Nelson -- pa66.html Hemithraupis flavicollis ornata
+../bio/bion.html#Nelson -- pa66.html Tangara fucosa 
+../bio/bion.html#Nelson -- pa6d.html Aimophila ruficeps australis
+../bio/bion.html#Nelson -- pa6d.html Aimophila ruficeps fusca
+../bio/bion.html#Nelson -- pa6d.html Amphispiza bilineata grisea
+../bio/bion.html#Nelson -- pa6d.html Amphispiza bilineata pacifica
+../bio/bion.html#Nelson -- pa6d.html Arremonops rufivirgatus chiapensis
+../bio/bion.html#Nelson -- pa6d.html Arremonops rufivirgatus sinaloae
+../bio/bion.html#Nelson -- pa6d.html Chlorospingus inornatus 
+../bio/bion.html#Nelson -- pa6d.html Junco phaeonotus fulvescens
+../bio/bion.html#Nelson -- pa6d.html Melospiza melodia adusta
+../bio/bion.html#Nelson -- pa6d.html Melospiza melodia goldmani
+../bio/bion.html#Nelson -- pa6d.html Melozone fusca intermedia
+../bio/bion.html#Nelson -- pa6s.html Agelaius phoeniceus californicus
+../bio/bion.html#Nelson -- pa6s.html Agelaius phoeniceus richmondi
+../bio/bion.html#Nelson -- pa6s.html Molothrus aeneus assimilis
+../bio/bion.html#Nelson -- pa6s.html Quiscalus mexicanus obscurus
+../bio/bion.html#Nelson -- pa6s.html Sturnella magna alticola
+../bio/bion.html#Nelson -- pici.html Aulacorhynchus caeruleogularis cognatus
+../bio/bion.html#Nelson -- pici.html Leuconotopicus villosus intermedius
+../bio/bion.html#Nelson -- pici.html Leuconotopicus villosus sanctorum
+../bio/bion.html#Nelson -- pici.html Melanerpes santacruzi veraecrucis
+../bio/bion.html#Nelson -- pici.html Monasa morphoeus fidelis
+../bio/bion.html#Nelson -- psit.html Amazona albifrons saltuensis
+../bio/bion.html#Nelson -- psit.html Amazona tresmariae 
+../bio/bion.html#Nelson -- stri.html Bubo virginianus mayensis
+../bio/bion.html#Nelson -- stri.html Glaucidium californicum pinicola
+../bio/bion.html#Nelson -- stri.html Glaucidium palmarum 
+../bio/bion.html#Nelson -- stri.html Strix occidentalis lucida
+../bio/bion.html#Nelson -- tina.html Crypturellus cinnamomeus goldmani
+../bio/bion.html#Nelson -- trog.html Trogon elegans goldmani
+../bio/bion.html#Neumann -- acci.html Buteo oreophilus 
+../bio/bion.html#Neumann -- apod.html Collocalia esculenta heinrothi
+../bio/bion.html#Neumann -- apod.html Telacanthura ussheri benguellensis
+../bio/bion.html#Neumann -- apod.html Telacanthura ussheri sharpei
+../bio/bion.html#Neumann -- buce.html Phoeniculus granti 
+../bio/bion.html#Neumann -- buce.html Phoeniculus purpureus niloticus
+../bio/bion.html#Neumann -- buce.html Phoeniculus somaliensis abyssinicus
+../bio/bion.html#Neumann -- buce.html Phoeniculus somaliensis neglectus
+../bio/bion.html#Neumann -- buce.html Rhinopomastus aterrimus emini
+../bio/bion.html#Neumann -- buce.html Rhinopomastus cyanomelas schalowi
+../bio/bion.html#Neumann -- capr.html Caprimulgus celebensis jungei
+../bio/bion.html#Neumann -- capr.html Caprimulgus poliocephalus koesteri
+../bio/bion.html#Neumann -- char.html Glareola pratincola fuelleborni
+../bio/bion.html#Neumann -- char.html Numenius arquata suschkini
+../bio/bion.html#Neumann -- char.html Thalasseus bengalensis emigratus
+../bio/bion.html#Neumann -- char.html Turnix maculosus kinneari
+../bio/bion.html#Neumann -- char.html Turnix sylvaticus bartelsorum
+../bio/bion.html#Neumann -- coli.html Colius striatus cinerascens
+../bio/bion.html#Neumann -- coli.html Urocolius macrourus pulcher
+../bio/bion.html#Neumann -- colu.html Macropygia doreya sedecima
+../bio/bion.html#Neumann -- colu.html Streptopelia roseogrisea arabica
+../bio/bion.html#Neumann -- cora.html Corythornis leucogaster bowdleri
+../bio/bion.html#Neumann -- cora.html Eurystomus glaucurus aethiopicus
+../bio/bion.html#Neumann -- cora.html Eurystomus glaucurus suahelicus
+../bio/bion.html#Neumann -- cora.html Eurystomus gularis neglectus
+../bio/bion.html#Neumann -- cora.html Halcyon coromanda pelingensis
+../bio/bion.html#Neumann -- cora.html Merops hirundineus heuglini
+../bio/bion.html#Neumann -- cora.html Merops orientalis beludschicus
+../bio/bion.html#Neumann -- cora.html Tanysiptera nigriceps leucura
+../bio/bion.html#Neumann -- cucu.html Centropus monachus occidentalis
+../bio/bion.html#Neumann -- falc.html Falco biarmicus abyssinicus
+../bio/bion.html#Neumann -- falc.html Falco fasciinucha 
+../bio/bion.html#Neumann -- falc.html Falco subbuteo streichi
+../bio/bion.html#Neumann -- falc.html Falco tinnunculus archeri
+../bio/bion.html#Neumann -- gall.html Numida meleagris somaliensis
+../bio/bion.html#Neumann -- gall.html Penelope superciliaris pseudonyma
+../bio/bion.html#Neumann -- gall.html Pternistis afer melanogaster
+../bio/bion.html#Neumann -- gall.html Pternistis clappertoni heuglini
+../bio/bion.html#Neumann -- gall.html Pternistis clappertoni nigrosquamatus
+../bio/bion.html#Neumann -- gall.html Ptilopachus petrosus brehmi
+../bio/bion.html#Neumann -- gall.html Ptilopachus petrosus major
+../bio/bion.html#Neumann -- gall.html Scleroptila gutturalis pallidior
+../bio/bion.html#Neumann -- gall.html Scleroptila shelleyi whytei
+../bio/bion.html#Neumann -- grui.html Sarothrura affinis antonii
+../bio/bion.html#Neumann -- grui.html Sarothrura pulchra centralis
+../bio/bion.html#Neumann -- grui.html Sarothrura pulchra zenkeri
+../bio/bion.html#Neumann -- lept.html Leptosomus discolor intermedius
+../bio/bion.html#Neumann -- muso.html Corythaixoides concolor pallidiceps
+../bio/bion.html#Neumann -- muso.html GENUS: MUSOPHAGIFORMES MUSOPHAGIDAE Ruwenzorornis
+../bio/bion.html#Neumann -- muso.html Ruwenzorornis johnstoni kivuensis
+../bio/bion.html#Neumann -- muso.html Tauraco corythaix phoebus
+../bio/bion.html#Neumann -- otid.html Ardeotis arabs stieberi
+../bio/bion.html#Neumann -- otid.html Ardeotis kori struthiunculus
+../bio/bion.html#Neumann -- pa03.html Erythropitta novaehibernicae gazellae
+../bio/bion.html#Neumann -- pa2a.html Batis erlangeri 
+../bio/bion.html#Neumann -- pa2a.html Batis erlangeri congoensis
+../bio/bion.html#Neumann -- pa2a.html Batis erlangeri erlangeri
+../bio/bion.html#Neumann -- pa2a.html Batis minor suahelica
+../bio/bion.html#Neumann -- pa2a.html Batis perkeo 
+../bio/bion.html#Neumann -- pa2a.html Platysteira cyanea aethiopica
+../bio/bion.html#Neumann -- pa2a.html Platysteira cyanea nyansae
+../bio/bion.html#Neumann -- pa2b.html Bocagia minuta reichenowi
+../bio/bion.html#Neumann -- pa2b.html Dryoscopus gambensis erythreae
+../bio/bion.html#Neumann -- pa2b.html Malaconotus blanchoti catharoxanthus
+../bio/bion.html#Neumann -- pa2b.html Malaconotus lagdeni centralis
+../bio/bion.html#Neumann -- pa2b.html Nilaus afer camerunensis
+../bio/bion.html#Neumann -- pa2b.html Nilaus afer hilgerti
+../bio/bion.html#Neumann -- pa2b.html Nilaus afer massaicus
+../bio/bion.html#Neumann -- pa2b.html Tchagra australis ansorgei
+../bio/bion.html#Neumann -- pa2b.html Tchagra jamesi mandanus
+../bio/bion.html#Neumann -- pa2b.html Telophorus cruentus hilgerti
+../bio/bion.html#Neumann -- pa2c.html Prionops caniceps harterti
+../bio/bion.html#Neumann -- pa2c.html Prionops retzii nigricans
+../bio/bion.html#Neumann -- pa2g.html Leptopterus chabert schistocercus
+../bio/bion.html#Neumann -- pa2q.html Ceblepyris graueri 
+../bio/bion.html#Neumann -- pa2q.html Coracina caledonica thilenii
+../bio/bion.html#Neumann -- pa2q.html Coracina macei andamana
+../bio/bion.html#Neumann -- pa2q.html Edolisoma schisticeps reichenowi
+../bio/bion.html#Neumann -- pa2q.html Lalage maculosa pumila
+../bio/bion.html#Neumann -- pa2q.html Lalage maculosa rotumae
+../bio/bion.html#Neumann -- pa2x.html Elminia albonotata swynnertoni
+../bio/bion.html#Neumann -- pa32.html Corvinella corvina togoensis
+../bio/bion.html#Neumann -- pa32.html Lanius excubitoroides intercedens
+../bio/bion.html#Neumann -- pa34.html Oriolus chinensis stresemanni
+../bio/bion.html#Neumann -- pa34.html Oriolus larvatus angolensis
+../bio/bion.html#Neumann -- pa35.html Pachycephala macrorhyncha pelengensis
+../bio/bion.html#Neumann -- pa37.html Rhipidura sulaensis 
+../bio/bion.html#Neumann -- pa38.html Monarcha cinerascens nigrirostris
+../bio/bion.html#Neumann -- pa38.html Monarcha cinerascens perpallidus
+../bio/bion.html#Neumann -- pa3c.html Astrapia stephaniae feminina
+../bio/bion.html#Neumann -- pa3e.html Pachycephalopsis poliosoma hunsteini
+../bio/bion.html#Neumann -- pa3e.html Tregellasia leucops nigriceps
+../bio/bion.html#Neumann -- pa3q.html Hirundo lucida rothschildi
+../bio/bion.html#Neumann -- pa3q.html Psalidoprocne nitens centralis
+../bio/bion.html#Neumann -- pa3q.html Psalidoprocne pristoptera massaica
+../bio/bion.html#Neumann -- pa3q.html Psalidoprocne pristoptera oleaginea
+../bio/bion.html#Neumann -- pa3q.html Psalidoprocne pristoptera reichenowi
+../bio/bion.html#Neumann -- pa3t.html Phylloscopus umbrovirens dorcadichroa
+../bio/bion.html#Neumann -- pa3t.html Phylloscopus umbrovirens omoensis
+../bio/bion.html#Neumann -- pa3u.html Calandrella blanfordi erlangeri
+../bio/bion.html#Neumann -- pa3u.html Galerida cristata alexanderi
+../bio/bion.html#Neumann -- pa3u.html Mirafra africana harterti
+../bio/bion.html#Neumann -- pa3u.html Mirafra rufocinnamomea omoensis
+../bio/bion.html#Neumann -- pa3v.html Apalis porphyrolaema 
+../bio/bion.html#Neumann -- pa3v.html Apalis thoracica griseiceps
+../bio/bion.html#Neumann -- pa3v.html Apalis thoracica uluguru
+../bio/bion.html#Neumann -- pa3v.html Cisticola emini bailunduensis
+../bio/bion.html#Neumann -- pa3v.html Cisticola marginatus nyansae
+../bio/bion.html#Neumann -- pa3v.html Cisticola marginatus suahelicus
+../bio/bion.html#Neumann -- pa3v.html Cisticola natalensis inexpectatus
+../bio/bion.html#Neumann -- pa3v.html Cisticola robustus omo
+../bio/bion.html#Neumann -- pa3v.html Cisticola robustus schraderi
+../bio/bion.html#Neumann -- pa3v.html Cisticola rufilatus ansorgei
+../bio/bion.html#Neumann -- pa3v.html Prinia melanops 
+../bio/bion.html#Neumann -- pa3v.html Prinia melanops melanops
+../bio/bion.html#Neumann -- pa3v.html Prinia melanops obscura
+../bio/bion.html#Neumann -- pa3w.html Acrocephalus gracilirostris jacksoni
+../bio/bion.html#Neumann -- pa3x.html Arizelocichla striifacies 
+../bio/bion.html#Neumann -- pa3x.html Atimastillas flavicollis soror
+../bio/bion.html#Neumann -- pa3x.html Phyllastrephus flavostriatus graueri
+../bio/bion.html#Neumann -- pa3x.html Pycnonotus barbatus schoanus
+../bio/bion.html#Neumann -- pa3x.html Stelgidillas gracilirostris percivali
+../bio/bion.html#Neumann -- pa3y.html Macrosphenus kretschmeri 
+../bio/bion.html#Neumann -- pa3y.html Macrosphenus kretschmeri kretschmeri
+../bio/bion.html#Neumann -- pa40.html Zosterops abyssinicus omoensis
+../bio/bion.html#Neumann -- pa40.html Zosterops atrifrons sulaensis
+../bio/bion.html#Neumann -- pa40.html Zosterops poliogastrus kaffensis
+../bio/bion.html#Neumann -- pa40.html Zosterops senegalensis jacksoni
+../bio/bion.html#Neumann -- pa40.html Zosterops socotranus 
+../bio/bion.html#Neumann -- pa40.html Zosterops stuhlmanni scotti
+../bio/bion.html#Neumann -- pa49.html Salpornis salvadori erlangeri
+../bio/bion.html#Neumann -- pa4a.html Bradypterus centralis 
+../bio/bion.html#Neumann -- pa4a.html Bradypterus centralis centralis
+../bio/bion.html#Neumann -- pa4a.html Bradypterus graueri 
+../bio/bion.html#Neumann -- pa4d.html Lamprotornis chalcurus emini
+../bio/bion.html#Neumann -- pa4d.html Lamprotornis chalybaeus nordmanni
+../bio/bion.html#Neumann -- pa4d.html Lamprotornis splendidus bailundensis
+../bio/bion.html#Neumann -- pa4d.html Sturnus vulgaris oppenheimi
+../bio/bion.html#Neumann -- pa4e.html Illadopsis pyrrhoptera 
+../bio/bion.html#Neumann -- pa4e.html Illadopsis pyrrhoptera pyrrhoptera
+../bio/bion.html#Neumann -- pa4g.html Argya squamiceps yemensis
+../bio/bion.html#Neumann -- pa4g.html Turdoides jardineii emini
+../bio/bion.html#Neumann -- pa4g.html Turdoides leucopygia lacuum
+../bio/bion.html#Neumann -- pa4g.html Turdoides leucopygia omoensis
+../bio/bion.html#Neumann -- pa4j.html Geokichla mendeni 
+../bio/bion.html#Neumann -- pa4j.html Geokichla piaggiae kilimensis
+../bio/bion.html#Neumann -- pa4j.html Neocossyphus rufus gabunensis
+../bio/bion.html#Neumann -- pa4j.html Turdus abyssinicus bambusicola
+../bio/bion.html#Neumann -- pa4j.html Turdus pelios graueri
+../bio/bion.html#Neumann -- pa4t.html Anthreptes longuemarei angolensis
+../bio/bion.html#Neumann -- pa4t.html Anthreptes longuemarei nyassae
+../bio/bion.html#Neumann -- pa4t.html Anthreptes neglectus 
+../bio/bion.html#Neumann -- pa4t.html Cinnyris habessinicus alter
+../bio/bion.html#Neumann -- pa4t.html Cinnyris habessinicus hellmayri
+../bio/bion.html#Neumann -- pa4t.html Cinnyris stuhlmanni graueri
+../bio/bion.html#Neumann -- pa4t.html Cyanomitra olivacea neglecta
+../bio/bion.html#Neumann -- pa4t.html Nectarinia tacazze jacksoni
+../bio/bion.html#Neumann -- pa4v.html Gymnoris pyrgita pallida
+../bio/bion.html#Neumann -- pa4w.html Ploceus aurantius rex
+../bio/bion.html#Neumann -- pa4w.html Ploceus ocularis suahelicus
+../bio/bion.html#Neumann -- pa4w.html Ploceus vitellinus uluensis
+../bio/bion.html#Neumann -- pa4w.html Sporopipes frontalis emini
+../bio/bion.html#Neumann -- pa4x.html Amadina fasciata alexanderi
+../bio/bion.html#Neumann -- pa4x.html Estrilda astrild massaica
+../bio/bion.html#Neumann -- pa4x.html Estrilda paludicola benguellensis
+../bio/bion.html#Neumann -- pa4x.html Lagonosticta rara forbesi
+../bio/bion.html#Neumann -- pa4x.html Lagonosticta rhodopareia ansorgei
+../bio/bion.html#Neumann -- pa4x.html Lagonosticta rubricata haematocephala
+../bio/bion.html#Neumann -- pa4x.html Nigrita canicapillus diabolicus
+../bio/bion.html#Neumann -- pa4x.html Spermophaga haematina togoensis
+../bio/bion.html#Neumann -- pa4y.html Vidua orientalis aucupum
+../bio/bion.html#Neumann -- pa50.html Anthus leucophrys bohndorffi
+../bio/bion.html#Neumann -- pa50.html Anthus leucophrys omoensis
+../bio/bion.html#Neumann -- pa50.html Anthus leucophrys saphiroi
+../bio/bion.html#Neumann -- pa50.html Anthus leucophrys zenkeri
+../bio/bion.html#Neumann -- pa50.html Anthus nyassae 
+../bio/bion.html#Neumann -- pa50.html Anthus nyassae nyassae
+../bio/bion.html#Neumann -- pa50.html Anthus similis hararensis
+../bio/bion.html#Neumann -- pa50.html Motacilla capensis simplicissima
+../bio/bion.html#Neumann -- pa60.html Bucanetes githagineus zedlitzi
+../bio/bion.html#Neumann -- pa60.html Crithagra citrinelloides kikuyensis
+../bio/bion.html#Neumann -- pa60.html Crithagra leucopygia riggenbachi
+../bio/bion.html#Neumann -- pa60.html Crithagra sulphurata sharpii
+../bio/bion.html#Neumann -- pa60.html Linurgus olivaceus kilimensis
+../bio/bion.html#Neumann -- pa60.html Serinus flavivertex sassii
+../bio/bion.html#Neumann -- pa64.html Emberiza affinis omoensis
+../bio/bion.html#Neumann -- pele.html Bostrychia hagedash nilotica
+../bio/bion.html#Neumann -- pele.html Platalea leucorodia archeri
+../bio/bion.html#Neumann -- pici.html Campethera cailliautii nyansae
+../bio/bion.html#Neumann -- pici.html Campethera tullbergi taeniolaema
+../bio/bion.html#Neumann -- pici.html Dendropicos fuscescens massaicus
+../bio/bion.html#Neumann -- pici.html Dendropicos goertae centralis
+../bio/bion.html#Neumann -- pici.html Dendropicos goertae koenigi
+../bio/bion.html#Neumann -- pici.html Dendropicos griseocephalus kilimensis
+../bio/bion.html#Neumann -- pici.html Dendropicos obsoletus heuglini
+../bio/bion.html#Neumann -- pici.html Indicator minor senegalensis
+../bio/bion.html#Neumann -- pici.html Indicator minor teitensis
+../bio/bion.html#Neumann -- pici.html Lybius undatus salvadorii
+../bio/bion.html#Neumann -- pici.html Lybius undatus thiogaster
+../bio/bion.html#Neumann -- pici.html Psilopogon henricii brachyrhynchus
+../bio/bion.html#Neumann -- pici.html Stactolaema anchietae rex
+../bio/bion.html#Neumann -- pici.html Trachyphonus darnaudii usambiro
+../bio/bion.html#Neumann -- pici.html Tricholaema hirsuta angolensis
+../bio/bion.html#Neumann -- psit.html Agapornis pullarius ugandae
+../bio/bion.html#Neumann -- psit.html Agapornis swindernianus emini
+../bio/bion.html#Neumann -- psit.html Alisterus amboinensis versicolor
+../bio/bion.html#Neumann -- psit.html Brotogeris chiriri behni
+../bio/bion.html#Neumann -- psit.html Brotogeris sanctithomae takatsukasae
+../bio/bion.html#Neumann -- psit.html Charmosyna josefinae sepikiana
+../bio/bion.html#Neumann -- psit.html Diopsittaca nobilis longipennis
+../bio/bion.html#Neumann -- psit.html Geoffroyus geoffroyi minor
+../bio/bion.html#Neumann -- psit.html Geoffroyus simplex buergersi
+../bio/bion.html#Neumann -- psit.html Poicephalus gulielmi fantiensis
+../bio/bion.html#Neumann -- psit.html Poicephalus meyeri damarensis
+../bio/bion.html#Neumann -- psit.html Poicephalus meyeri matschiei
+../bio/bion.html#Neumann -- psit.html Poicephalus meyeri reichenowi
+../bio/bion.html#Neumann -- psit.html Poicephalus meyeri transvaalensis
+../bio/bion.html#Neumann -- psit.html Psittacula krameri borealis
+../bio/bion.html#Neumann -- psit.html Pyrrhura lepida anerythra
+../bio/bion.html#Neumann -- psit.html Pyrrhura lepida coerulescens
+../bio/bion.html#Neumann -- psit.html Trichoglossus haematodus nesophilus
+../bio/bion.html#Neumann -- pter.html Pterocles exustus erlangeri
+../bio/bion.html#Neumann -- pter.html Pterocles lichtensteinii arabicus
+../bio/bion.html#Neumann -- pter.html Pterocles lichtensteinii sukensis
+../bio/bion.html#Neumann -- stri.html Glaucidium capense scheffleri
+../bio/bion.html#Neumann -- stri.html Otus manadensis mendeni
+../bio/bion.html#Neumann -- stri.html Tyto nigrobrunnea 
+../bio/bion.html#Neumann -- stri.html Tyto rosenbergii pelengensis
+../bio/bion.html#Neumann -- stru.html Struthio camelus massaicus
+../bio/bion.html#Neunzig -- pa4w.html Euplectes capensis angolensis
+../bio/bion.html#Neunzig -- pa4x.html Amadina fasciata meridionalis
+../bio/bion.html#Neunzig -- pa4y.html Vidua chalybeata centralis
+../bio/bion.html#Newman -- colu.html Streptopelia decaocto xanthocycla
+../bio/bion.html#Newman,RJ -- pa46.html Thryothorus ludovicianus tropicalis
+../bio/bion.html#Newman,RJ -- pa4j.html Turdus grayi microrhynchus
+../bio/bion.html#Newman,RJ -- pa6d.html Chlorospingus flavopectus wetmorei
+../bio/bion.html#Newman,RJ -- stri.html Glaucidium sanchezi 
+../bio/bion.html#Newton,A -- acci.html Circus macrosceles 
+../bio/bion.html#Newton,A -- grui.html Gallinula chloropus pyrrhorrhoa
+../bio/bion.html#Newton,A -- pa2g.html GENUS: PASSERIFORMES VANGIDAE Hypositta
+../bio/bion.html#Newton,A -- pa2g.html Hypositta corallirostris 
+../bio/bion.html#Newton,A -- pa2g.html Newtonia brunneicauda 
+../bio/bion.html#Newton,A -- pa2g.html Newtonia brunneicauda brunneicauda
+../bio/bion.html#Newton,A -- pa3w.html Acrocephalus rodericanus 
+../bio/bion.html#Newton,A -- pa4w.html Foudia flavicans 
+../bio/bion.html#Newton,A -- pa60.html Drepanis funerea 
+../bio/bion.html#Newton,A -- pa60.html GENUS: PASSERIFORMES FRINGILLIDAE Ciridops
+../bio/bion.html#Newton,A -- psit.html Psittacula eques echo
+../bio/bion.html#Newton,A -- psit.html Psittacula exsul 
+../bio/bion.html#Newton,E -- anse.html Alopochen mauritiana 
+../bio/bion.html#Newton,E -- anse.html Anas theodori 
+../bio/bion.html#Newton,E -- colu.html Nesoenas picturatus comorensis
+../bio/bion.html#Newton,E -- pa38.html Terpsiphone corvina 
+../bio/bion.html#Newton,E -- pa38.html Terpsiphone mutata vulpina
+../bio/bion.html#Newton,E -- pa3w.html Nesillas longicaudata 
+../bio/bion.html#Newton,E -- pa3x.html Hypsipetes crassirostris 
+../bio/bion.html#Newton,E -- pa40.html Zosterops maderaspatanus anjuanensis
+../bio/bion.html#Newton,E -- pa40.html Zosterops modestus 
+../bio/bion.html#Newton,E -- pa40.html Zosterops semiflavus 
+../bio/bion.html#Newton,E -- pa4j.html Turdus bewsheri 
+../bio/bion.html#Newton,E -- pa4j.html Turdus bewsheri bewsheri
+../bio/bion.html#Newton,E -- pa4w.html Foudia sechellarum 
+../bio/bion.html#Newton,E -- psit.html Coracopsis barklyi 
+../bio/bion.html#Newton,E -- psit.html Psittacula eques echo
+../bio/bion.html#Newton,E -- psit.html Psittacula wardi 
+../bio/bion.html#Ng -- acci.html Circaetus gallicus sacerdotis
+../bio/bion.html#Ng -- pa1y.html Myzomela irianawidodoae 
+../bio/bion.html#Ng -- pa3t.html Phylloscopus rotiensis 
+../bio/bion.html#Ng,EYX -- pa3t.html Phylloscopus rotiensis 
+../bio/bion.html#Nguembock -- pa3v.html GENUS: PASSERIFORMES CISTICOLIDAE Oreolais
+../bio/bion.html#Nichols -- proc.html Pterodroma cahow 
+../bio/bion.html#Nicholson -- pa39.html Platylophus galericulatus lemprieri
+../bio/bion.html#Nicholson -- pa3n.html Periparus ater vieirae
+../bio/bion.html#Nicholson -- pa40.html Zosterops melanurus buxtoni
+../bio/bion.html#Nicholson -- pa50.html Anthus cinnamomeus bocagii
+../bio/bion.html#Nicholson -- pa50.html Anthus peruvianus 
+../bio/bion.html#Nicoll -- apod.html Apus balstoni mayottensis
+../bio/bion.html#Nicoll -- cora.html Merops orientalis cleopatra
+../bio/bion.html#Nicoll -- cucu.html Centropus toulou assumptionis
+../bio/bion.html#Nicoll -- pa08.html Tyrannus caudifasciatus caymanensis
+../bio/bion.html#Nicoll -- pa3u.html Galerida cristata halfae
+../bio/bion.html#Nicoll -- pa3v.html Prinia gracilis natronensis
+../bio/bion.html#Nicoll -- pa4h.html Sylvia melanocephala norrisae
+../bio/bion.html#Nicoll -- pa4v.html Passer domesticus niloticus
+../bio/bion.html#Nicoll -- pa61.html Setophaga vitellina crawfordi
+../bio/bion.html#Nicoll -- pele.html Butorides striata crawfordi
+../bio/bion.html#Nicoll -- proc.html Pelecanoides urinatrix dacunhae
+../bio/bion.html#Nicoll -- pter.html Pterocles exustus floweri
+../bio/bion.html#Nielsen,H -- pa3v.html Orthotomus chaktomuk 
+../bio/bion.html#Niethammer -- apod.html Streptoprocne zonaris kuenzeli
+../bio/bion.html#Niethammer -- char.html Rhinoptilus africanus erlangeri
+../bio/bion.html#Niethammer -- coli.html Urocolius macrourus laeneni
+../bio/bion.html#Niethammer -- pa3u.html Ammomanes deserti kollmannspergeri
+../bio/bion.html#Niethammer -- pa3u.html Ammomanopsis grayi hoeschi
+../bio/bion.html#Niethammer -- pa3u.html Galerida cristata jordansi
+../bio/bion.html#Niethammer -- pa3w.html Iduna pallida laeneni
+../bio/bion.html#Niethammer -- pa4v.html Passer griseus laeneni
+../bio/bion.html#Niethammer -- pa50.html Anthus cinnamomeus grotei
+../bio/bion.html#Niethammer -- pici.html Dendrocopos major paphlagoniae
+../bio/bion.html#Norman,JA -- acci.html Circaetus gallicus sacerdotis
+../bio/bion.html#Norman,JA -- pa1v.html Amytornis merrotsyi pedleri
+../bio/bioo.html#Ochoa,JM -- pa07.html Lipaugus weberi 
+../bio/bioo.html#Ogilvie-Grant -- acci.html GENUS: ACCIPITRIFORMES ACCIPITRIDAE Pithecophaga
+../bio/bioo.html#Ogilvie-Grant -- acci.html Pithecophaga jefferyi 
+../bio/bioo.html#Ogilvie-Grant -- apod.html Aerodramus whiteheadi 
+../bio/bioo.html#Ogilvie-Grant -- apod.html Aerodramus whiteheadi whiteheadi
+../bio/bioo.html#Ogilvie-Grant -- apod.html Apus sladeniae 
+../bio/bioo.html#Ogilvie-Grant -- apod.html Collocalia esculenta nitens
+../bio/bioo.html#Ogilvie-Grant -- apod.html Tachymarptis melba maximus
+../bio/bioo.html#Ogilvie-Grant -- buce.html Phoeniculus damarensis 
+../bio/bioo.html#Ogilvie-Grant -- buce.html Phoeniculus somaliensis 
+../bio/bioo.html#Ogilvie-Grant -- buce.html Phoeniculus somaliensis somaliensis
+../bio/bioo.html#Ogilvie-Grant -- buce.html Tockus jacksoni 
+../bio/bioo.html#Ogilvie-Grant -- capr.html Batrachostomus septimus microrhynchus
+../bio/bioo.html#Ogilvie-Grant -- capr.html Caprimulgus celebensis 
+../bio/bioo.html#Ogilvie-Grant -- capr.html Caprimulgus celebensis celebensis
+../bio/bioo.html#Ogilvie-Grant -- capr.html Caprimulgus nubicus jonesi
+../bio/bioo.html#Ogilvie-Grant -- capr.html Caprimulgus poliocephalus ruwenzorii
+../bio/bioo.html#Ogilvie-Grant -- char.html Burhinus capensis dodsoni
+../bio/bioo.html#Ogilvie-Grant -- char.html Turnix sylvaticus whiteheadi
+../bio/bioo.html#Ogilvie-Grant -- char.html Turnix varius novaecaledoniae
+../bio/bioo.html#Ogilvie-Grant -- colu.html Ducula carola mindanensis
+../bio/bioo.html#Ogilvie-Grant -- colu.html Gymnophaps stalkeri 
+../bio/bioo.html#Ogilvie-Grant -- colu.html Pampusana beccarii solomonensis
+../bio/bioo.html#Ogilvie-Grant -- colu.html Treron phoenicopterus annamensis
+../bio/bioo.html#Ogilvie-Grant -- colu.html Treron sphenurus robinsoni
+../bio/bioo.html#Ogilvie-Grant -- cora.html Ceyx pusillus aolae
+../bio/bioo.html#Ogilvie-Grant -- cora.html Ceyx pusillus bougainvillei
+../bio/bioo.html#Ogilvie-Grant -- gall.html Ammoperdix heyi cholmleyi
+../bio/bioo.html#Ogilvie-Grant -- gall.html Arborophila sumatrana 
+../bio/bioo.html#Ogilvie-Grant -- gall.html Arborophila torqueola batemani
+../bio/bioo.html#Ogilvie-Grant -- gall.html Caloperdix oculeus borneensis
+../bio/bioo.html#Ogilvie-Grant -- gall.html Colinus virginianus atriceps
+../bio/bioo.html#Ogilvie-Grant -- gall.html Crax fasciolata grayi
+../bio/bioo.html#Ogilvie-Grant -- gall.html GENUS: GALLIFORMES MEGAPODIIDAE Eulipoa
+../bio/bioo.html#Ogilvie-Grant -- gall.html GENUS: GALLIFORMES ODONTOPHORIDAE Dactylortyx
+../bio/bioo.html#Ogilvie-Grant -- gall.html GENUS: GALLIFORMES ODONTOPHORIDAE Rhynchortyx
+../bio/bioo.html#Ogilvie-Grant -- gall.html Lophura leucomelanos oatesi
+../bio/bioo.html#Ogilvie-Grant -- gall.html Lophura nycthemera annamensis
+../bio/bioo.html#Ogilvie-Grant -- gall.html Lophura nycthemera whiteheadi
+../bio/bioo.html#Ogilvie-Grant -- gall.html Numida meleagris reichenowi
+../bio/bioo.html#Ogilvie-Grant -- gall.html Peliperdix albogularis buckleyi
+../bio/bioo.html#Ogilvie-Grant -- gall.html Peliperdix coqui hubbardi
+../bio/bioo.html#Ogilvie-Grant -- gall.html Perdicula manipurensis inglisi
+../bio/bioo.html#Ogilvie-Grant -- gall.html Pternistis clappertoni gedgii
+../bio/bioo.html#Ogilvie-Grant -- gall.html Pternistis clappertoni sharpii
+../bio/bioo.html#Ogilvie-Grant -- gall.html Pternistis griseostriatus 
+../bio/bioo.html#Ogilvie-Grant -- gall.html Pternistis jacksoni 
+../bio/bioo.html#Ogilvie-Grant -- gall.html Ptilopachus petrosus florentiae
+../bio/bioo.html#Ogilvie-Grant -- gall.html Rhizothera dulitensis 
+../bio/bioo.html#Ogilvie-Grant -- gall.html Scleroptila psilolaema elgonensis
+../bio/bioo.html#Ogilvie-Grant -- gall.html Scleroptila shelleyi 
+../bio/bioo.html#Ogilvie-Grant -- gall.html Scleroptila shelleyi shelleyi
+../bio/bioo.html#Ogilvie-Grant -- gall.html Scleroptila shelleyi uluensis
+../bio/bioo.html#Ogilvie-Grant -- gall.html Scleroptila streptophora 
+../bio/bioo.html#Ogilvie-Grant -- gall.html Syrmaticus mikado 
+../bio/bioo.html#Ogilvie-Grant -- grui.html Gallirallus australis scotti
+../bio/bioo.html#Ogilvie-Grant -- grui.html Nesoclopeus woodfordi 
+../bio/bioo.html#Ogilvie-Grant -- grui.html Nesoclopeus woodfordi woodfordi
+../bio/bioo.html#Ogilvie-Grant -- grui.html Rallicula rubra klossi
+../bio/bioo.html#Ogilvie-Grant -- pa03.html Hydrornis soror douglasi
+../bio/bioo.html#Ogilvie-Grant -- pa1s.html Climacteris melanurus wellsi
+../bio/bioo.html#Ogilvie-Grant -- pa1v.html Malurus assimilis bernieri
+../bio/bioo.html#Ogilvie-Grant -- pa1y.html Meliphaga mimikae 
+../bio/bioo.html#Ogilvie-Grant -- pa22.html Acanthiza chrysorrhoa leighi
+../bio/bioo.html#Ogilvie-Grant -- pa22.html Aethomyias spilodera aruensis
+../bio/bioo.html#Ogilvie-Grant -- pa22.html Sericornis maculatus balstoni
+../bio/bioo.html#Ogilvie-Grant -- pa2b.html Laniarius mufumbiri 
+../bio/bioo.html#Ogilvie-Grant -- pa2b.html Tchagra senegalus percivali
+../bio/bioo.html#Ogilvie-Grant -- pa2d.html Tephrodornis virgatus hainanus
+../bio/bioo.html#Ogilvie-Grant -- pa2q.html Pericrocotus speciosus johnstoniae
+../bio/bioo.html#Ogilvie-Grant -- pa32.html Lanius schach longicaudatus
+../bio/bioo.html#Ogilvie-Grant -- pa32.html Lanius validirostris 
+../bio/bioo.html#Ogilvie-Grant -- pa32.html Lanius validirostris validirostris
+../bio/bioo.html#Ogilvie-Grant -- pa33.html Pteruthius aeralatus ricketti
+../bio/bioo.html#Ogilvie-Grant -- pa34.html Oriolus albiloris 
+../bio/bioo.html#Ogilvie-Grant -- pa34.html Oriolus isabellae 
+../bio/bioo.html#Ogilvie-Grant -- pa34.html Oriolus percivali 
+../bio/bioo.html#Ogilvie-Grant -- pa35.html Pachycephala albiventris 
+../bio/bioo.html#Ogilvie-Grant -- pa35.html Pachycephala albiventris albiventris
+../bio/bioo.html#Ogilvie-Grant -- pa37.html Rhipidura dryas streptophora
+../bio/bioo.html#Ogilvie-Grant -- pa38.html Myiagra ruficollis mimikae
+../bio/bioo.html#Ogilvie-Grant -- pa38.html Terpsiphone atrocaudata periophthalmica
+../bio/bioo.html#Ogilvie-Grant -- pa38.html Terpsiphone bedfordi 
+../bio/bioo.html#Ogilvie-Grant -- pa39.html Cissa chinensis robinsoni
+../bio/bioo.html#Ogilvie-Grant -- pa39.html Corvus woodfordi 
+../bio/bioo.html#Ogilvie-Grant -- pa39.html Urocissa whiteheadi 
+../bio/bioo.html#Ogilvie-Grant -- pa39.html Urocissa whiteheadi whiteheadi
+../bio/bioo.html#Ogilvie-Grant -- pa3e.html Pachycephalopsis poliosoma approximans
+../bio/bioo.html#Ogilvie-Grant -- pa3f.html Scotocerca inquieta buryi
+../bio/bioo.html#Ogilvie-Grant -- pa3m.html Erythrocercus mccallii congicus
+../bio/bioo.html#Ogilvie-Grant -- pa3n.html Periparus ater ptilosus
+../bio/bioo.html#Ogilvie-Grant -- pa3p.html Pholidornis rushiae bedfordi
+../bio/bioo.html#Ogilvie-Grant -- pa3p.html Pholidornis rushiae denti
+../bio/bioo.html#Ogilvie-Grant -- pa3r.html Horornis acanthizoides concolor
+../bio/bioo.html#Ogilvie-Grant -- pa3r.html Horornis seebohmi 
+../bio/bioo.html#Ogilvie-Grant -- pa3t.html Phylloscopus maforensis ceramensis
+../bio/bioo.html#Ogilvie-Grant -- pa3t.html Phylloscopus subaffinis 
+../bio/bioo.html#Ogilvie-Grant -- pa3t.html Phylloscopus umbrovirens alpinus
+../bio/bioo.html#Ogilvie-Grant -- pa3t.html Phylloscopus umbrovirens yemenensis
+../bio/bioo.html#Ogilvie-Grant -- pa3u.html Ammomanes deserti saturata
+../bio/bioo.html#Ogilvie-Grant -- pa3u.html Chersomanes albofasciata kalahariae
+../bio/bioo.html#Ogilvie-Grant -- pa3u.html Eremopterix signatus harrisoni
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Apalis jacksoni minor
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Cisticola aridulus kalahari
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Cisticola aridulus lavendulae
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Cisticola cantans belli
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Cisticola carruthersi 
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Cisticola woosnami 
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Cisticola woosnami woosnami
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Eremomela icteropygialis saturatior
+../bio/bioo.html#Ogilvie-Grant -- pa3v.html Orthotomus chloronotus 
+../bio/bioo.html#Ogilvie-Grant -- pa3w.html Acrocephalus taiti 
+../bio/bioo.html#Ogilvie-Grant -- pa3w.html Calamonastides gracilirostris 
+../bio/bioo.html#Ogilvie-Grant -- pa3w.html Calamonastides gracilirostris gracilirostris
+../bio/bioo.html#Ogilvie-Grant -- pa3x.html Bleda syndactylus woosnami
+../bio/bioo.html#Ogilvie-Grant -- pa3x.html Hypsipetes amaurotis fugensis
+../bio/bioo.html#Ogilvie-Grant -- pa3y.html Sylvietta denti 
+../bio/bioo.html#Ogilvie-Grant -- pa3y.html Sylvietta denti denti
+../bio/bioo.html#Ogilvie-Grant -- pa3y.html Sylvietta ruficapilla chubbi
+../bio/bioo.html#Ogilvie-Grant -- pa3y.html Sylvietta whytii minima
+../bio/bioo.html#Ogilvie-Grant -- pa3z.html Pomatorhinus schisticeps mearsi
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Dasycrotapha pygmaea 
+../bio/bioo.html#Ogilvie-Grant -- pa40.html GENUS: PASSERIFORMES ZOSTEROPIDAE Zosterornis
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Sterrhoptilus dennistouni 
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Tephrozosterops stalkeri 
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Yuhina brunneiceps 
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Zosterops auriventer tahanensis
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Zosterops luteus balstoni
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Zosterops nigrorum aureiloris
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Zosterops nigrorum luzonicus
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Zosterops stalkeri 
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Zosterornis striatus 
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Zosterornis whiteheadi 
+../bio/bioo.html#Ogilvie-Grant -- pa40.html Zosterornis whiteheadi whiteheadi
+../bio/bioo.html#Ogilvie-Grant -- pa43.html Regulus goodfellowi 
+../bio/bioo.html#Ogilvie-Grant -- pa48.html Sitta europaea bedfordi
+../bio/bioo.html#Ogilvie-Grant -- pa48.html Sitta oenochlamys mesoleuca
+../bio/bioo.html#Ogilvie-Grant -- pa48.html Sitta villosa corea
+../bio/bioo.html#Ogilvie-Grant -- pa48.html Sitta yunnanensis 
+../bio/bioo.html#Ogilvie-Grant -- pa4a.html Bradypterus grandis 
+../bio/bioo.html#Ogilvie-Grant -- pa4a.html Locustella caudata 
+../bio/bioo.html#Ogilvie-Grant -- pa4a.html Locustella caudata caudata
+../bio/bioo.html#Ogilvie-Grant -- pa4a.html Locustella seebohmi 
+../bio/bioo.html#Ogilvie-Grant -- pa4d.html Aplonis mystacea 
+../bio/bioo.html#Ogilvie-Grant -- pa4d.html Rhabdornis inornatus 
+../bio/bioo.html#Ogilvie-Grant -- pa4d.html Rhabdornis inornatus inornatus
+../bio/bioo.html#Ogilvie-Grant -- pa4d.html Rhabdornis mystacalis minor
+../bio/bioo.html#Ogilvie-Grant -- pa4d.html Sarcops calvus melanonotus
+../bio/bioo.html#Ogilvie-Grant -- pa4e.html Napothera epilepidota davisoni
+../bio/bioo.html#Ogilvie-Grant -- pa4e.html Napothera epilepidota guttaticollis
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Actinodura cyanouroptera wingatei
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Actinodura egertoni ripponi
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Actinodura morrisoniana 
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Argya rubiginosa sharpii
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Garrulax castanotis 
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Garrulax castanotis castanotis
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Heterophasia pieaoides wrayi
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Pterorhinus pectoralis semitorquatus
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Pterorhinus vassali 
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Trochalopteron melanostigma ramsayi
+../bio/bioo.html#Ogilvie-Grant -- pa4g.html Trochalopteron morrisonianum 
+../bio/bioo.html#Ogilvie-Grant -- pa4h.html Fulvetta formosana 
+../bio/bioo.html#Ogilvie-Grant -- pa4h.html Fulvetta manipurensis 
+../bio/bioo.html#Ogilvie-Grant -- pa4h.html Fulvetta manipurensis manipurensis
+../bio/bioo.html#Ogilvie-Grant -- pa4h.html Fulvetta vinipectus austeni
+../bio/bioo.html#Ogilvie-Grant -- pa4h.html Suthora verreauxi morrisoniana
+../bio/bioo.html#Ogilvie-Grant -- pa4h.html Sylvia buryi 
+../bio/bioo.html#Ogilvie-Grant -- pa4j.html Turdus menachensis 
+../bio/bioo.html#Ogilvie-Grant -- pa4r.html Dicaeum hypoleucum obscurum
+../bio/bioo.html#Ogilvie-Grant -- pa4r.html Dicaeum ignipectus formosum
+../bio/bioo.html#Ogilvie-Grant -- pa4r.html Dicaeum ignipectus luzoniense
+../bio/bioo.html#Ogilvie-Grant -- pa4t.html Aethopyga bella flavipectus
+../bio/bioo.html#Ogilvie-Grant -- pa4t.html Aethopyga jefferyi 
+../bio/bioo.html#Ogilvie-Grant -- pa4t.html Anthreptes seimundi 
+../bio/bioo.html#Ogilvie-Grant -- pa4t.html Anthreptes seimundi seimundi
+../bio/bioo.html#Ogilvie-Grant -- pa4t.html Cinnyris batesi 
+../bio/bioo.html#Ogilvie-Grant -- pa4t.html Cinnyris chloropygius kempi
+../bio/bioo.html#Ogilvie-Grant -- pa4t.html Cinnyris jugularis obscurior
+../bio/bioo.html#Ogilvie-Grant -- pa4t.html Nectarinia johnstoni dartmouthi
+../bio/bioo.html#Ogilvie-Grant -- pa4v.html Passer hemileucus 
+../bio/bioo.html#Ogilvie-Grant -- pa4w.html Euplectes capensis crassirostris
+../bio/bioo.html#Ogilvie-Grant -- pa4x.html Erythrura hyperythra brunneiventris
+../bio/bioo.html#Ogilvie-Grant -- pa4x.html Estrilda astrild macmillani
+../bio/bioo.html#Ogilvie-Grant -- pa4x.html Mandingoa nitidula chubbi
+../bio/bioo.html#Ogilvie-Grant -- pa4x.html Nigrita luteifrons alexanderi
+../bio/bioo.html#Ogilvie-Grant -- pa4x.html Ortygospiza atricollis ansorgei
+../bio/bioo.html#Ogilvie-Grant -- pa4x.html Pytilia melba belli
+../bio/bioo.html#Ogilvie-Grant -- pa4x.html Spermophaga poliogenys 
+../bio/bioo.html#Ogilvie-Grant -- pa50.html Anthus brachyurus leggei
+../bio/bioo.html#Ogilvie-Grant -- pa50.html Anthus gutturalis wollastoni
+../bio/bioo.html#Ogilvie-Grant -- pa50.html Motacilla capensis wellsi
+../bio/bioo.html#Ogilvie-Grant -- pa53.html#Prunellidae Prunella fagani 
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Carpodacus formosanus 
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Crithagra canicapilla elgonensis
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Crithagra menachensis 
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Crithagra rothschildi 
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Linaria yemenensis 
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Loxia curvirostra luzoniensis
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Pyrrhula leucogenis 
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Pyrrhula leucogenis leucogenis
+../bio/bioo.html#Ogilvie-Grant -- pa60.html Rhynchostruthus percivali 
+../bio/bioo.html#Ogilvie-Grant -- pa64.html Emberiza socotrana 
+../bio/bioo.html#Ogilvie-Grant -- pele.html Dupetor flavicollis woodfordi
+../bio/bioo.html#Ogilvie-Grant -- pele.html Gorsachius magnificus 
+../bio/bioo.html#Ogilvie-Grant -- pele.html Nycticorax caledonicus mandibularis
+../bio/bioo.html#Ogilvie-Grant -- pici.html Blythipicus pyrrhotis hainanus
+../bio/bioo.html#Ogilvie-Grant -- pici.html Chrysocolaptes lucidus montanus
+../bio/bioo.html#Ogilvie-Grant -- pici.html Chrysophlegma flavinucha styani
+../bio/bioo.html#Ogilvie-Grant -- pici.html Gymnobucco sladeni 
+../bio/bioo.html#Ogilvie-Grant -- pici.html Picus canus robinsoni
+../bio/bioo.html#Ogilvie-Grant -- pici.html Pogoniulus bilineatus mfumbiri
+../bio/bioo.html#Ogilvie-Grant -- pici.html Tricholaema lacrymosa radcliffei
+../bio/bioo.html#Ogilvie-Grant -- psit.html Micropsitta finschii aolae
+../bio/bioo.html#Ogilvie-Grant -- psit.html Oreopsittacus arfaki grandis
+../bio/bioo.html#Ogilvie-Grant -- psit.html Oreopsittacus arfaki major
+../bio/bioo.html#Ogilvie-Grant -- psit.html Prioniturus montanus 
+../bio/bioo.html#Ogilvie-Grant -- psit.html Psittacella modesta collaris
+../bio/bioo.html#Ogilvie-Grant -- psit.html Psittaculirostris desmarestii godmani
+../bio/bioo.html#Ogilvie-Grant -- stri.html Bubo philippensis mindanensis
+../bio/bioo.html#Ogilvie-Grant -- stri.html Otus longicornis 
+../bio/bioo.html#Ogilvie-Grant -- stri.html Otus socotranus 
+../bio/bioo.html#Ogilvie-Grant -- stri.html Otus spilocephalus vulpes
+../bio/bioo.html#Ogilvie-Grant -- suli.html Leucocarbo ranfurlyi 
+../bio/bioo.html#Ogilvie-Grant -- suli.html Leucocarbo stewarti 
+../bio/bioo.html#Ogilvie-Grant -- suli.html Phalacrocorax nigrogularis 
+../bio/bioo.html#Ogilvie-Grant -- trog.html Harpactes erythrocephalus hainanus
+../bio/bioo.html#Ogilvie-Grant -- trog.html Harpactes oreskios dulitensis
+../bio/bioo.html#Ogilvie-Grant -- trog.html Harpactes orrhophaeus vidua
+../bio/bioo.html#Olsen -- acci.html Circaetus gallicus sacerdotis
+../bio/bioo.html#Olsen -- stri.html Ninox sumbaensis 
+../bio/bioo.html#Orr -- apod.html Eupherusa cyanophrys 
+../bio/bioo.html#Orr -- gall.html Colinus virginianus harrisoni
+../bio/bioo.html#Orr -- pa61.html Cardellina rubra rowleyi
+../bio/bioo.html#Oyler-Mccance,SJ -- gall.html Centrocercus minimus 
+../bio/biop.html#Palmer,W -- pa32.html Lanius ludovicianus migrans
+../bio/biop.html#Peck -- capr.html Antrostomus badius 
+../bio/biop.html#Peck -- grui.html Pardirallus maculatus insolitus
+../bio/biop.html#Peck -- pa6d.html Ammodramus savannarum cracens
+../bio/biop.html#Phelps,Wh -- pa66.html Anisognathus lacrymosus pallididorsalis
+../bio/biop.html#Philippi%20B. -- pa08.html Tachuris rubrigastra loaensis
+../bio/biop.html#Philippi%20B. -- pa08.html Xolmis pyrope fortis
+../bio/biop.html#Pichorim -- pa1a.html Scytalopus iraiensis 
+../bio/biop.html#Poulsen -- stri.html Tyto sororcula almae
+../bio/biop.html#Priolo -- gall.html Alectoris graeca orlandoi
+../bio/bioq.html#Quevedo,A -- pa1a.html Scytalopus rodriguezi 
+../bio/bioq.html#Quevedo,A -- pa1a.html Scytalopus rodriguezi rodriguezi
+../bio/bioq.html#Quoy -- acci.html Geranoaetus polyosoma 
+../bio/bioq.html#Quoy -- acci.html Geranoaetus polyosoma polyosoma
+../bio/bioq.html#Quoy -- acci.html Parabuteo leucorrhous 
+../bio/bioq.html#Quoy -- apod.html Aerodramus vanikorensis 
+../bio/bioq.html#Quoy -- apod.html Aerodramus vanikorensis vanikorensis
+../bio/bioq.html#Quoy -- capr.html Podargus ocellatus 
+../bio/bioq.html#Quoy -- capr.html Podargus ocellatus ocellatus
+../bio/bioq.html#Quoy -- capr.html Podargus papuensis 
+../bio/bioq.html#Quoy -- char.html Anarhynchus frontalis 
+../bio/bioq.html#Quoy -- char.html GENUS: CHARADRIIFORMES CHARADRIIDAE Anarhynchus
+../bio/bioq.html#Quoy -- colu.html Columba vitiensis 
+../bio/bioq.html#Quoy -- colu.html Columba vitiensis vitiensis
+../bio/bioq.html#Quoy -- colu.html Ducula pinon 
+../bio/bioq.html#Quoy -- colu.html Ducula pinon pinon
+../bio/bioq.html#Quoy -- colu.html Ducula radiata 
+../bio/bioq.html#Quoy -- colu.html Ducula rufigaster 
+../bio/bioq.html#Quoy -- colu.html Ducula rufigaster rufigaster
+../bio/bioq.html#Quoy -- colu.html Turacoena manadensis 
+../bio/bioq.html#Quoy -- cora.html Dacelo gaudichaud 
+../bio/bioq.html#Quoy -- cucu.html Centropus celebensis 
+../bio/bioq.html#Quoy -- cucu.html Centropus celebensis celebensis
+../bio/bioq.html#Quoy -- cucu.html Centropus violaceus 
+../bio/bioq.html#Quoy -- gall.html Coturnix novaezelandiae 
+../bio/bioq.html#Quoy -- grui.html Gallirallus torquatus celebensis
+../bio/bioq.html#Quoy -- pa1v.html Amytornis textilis 
+../bio/bioq.html#Quoy -- pa1v.html Amytornis textilis textilis
+../bio/bioq.html#Quoy -- pa1v.html Malurus cyanocephalus 
+../bio/bioq.html#Quoy -- pa1v.html Malurus cyanocephalus cyanocephalus
+../bio/bioq.html#Quoy -- pa1v.html Malurus leucopterus 
+../bio/bioq.html#Quoy -- pa1v.html Malurus leucopterus leucopterus
+../bio/bioq.html#Quoy -- pa1v.html Malurus splendens 
+../bio/bioq.html#Quoy -- pa1v.html Malurus splendens splendens
+../bio/bioq.html#Quoy -- pa22.html Acanthiza chrysorrhoa 
+../bio/bioq.html#Quoy -- pa22.html Acanthiza chrysorrhoa chrysorrhoa
+../bio/bioq.html#Quoy -- pa22.html Gerygone igata 
+../bio/bioq.html#Quoy -- pa34.html Oriolus bouroensis 
+../bio/bioq.html#Quoy -- pa35.html Colluricincla megarhyncha 
+../bio/bioq.html#Quoy -- pa35.html Colluricincla megarhyncha megarhyncha
+../bio/bioq.html#Quoy -- pa36.html Dicrurus megarhynchus 
+../bio/bioq.html#Quoy -- pa37.html Rhipidura leucophrys melaleuca
+../bio/bioq.html#Quoy -- pa37.html Rhipidura rufiventris setosa
+../bio/bioq.html#Quoy -- pa38.html Myiagra vanikorensis 
+../bio/bioq.html#Quoy -- pa38.html Myiagra vanikorensis vanikorensis
+../bio/bioq.html#Quoy -- pa38.html Symposiachrus manadensis 
+../bio/bioq.html#Quoy -- pa3e.html Eopsaltria georgiana 
+../bio/bioq.html#Quoy -- pa3e.html Melanodryas vittata 
+../bio/bioq.html#Quoy -- pa3e.html Melanodryas vittata vittata
+../bio/bioq.html#Quoy -- pa3q.html Hirundo tahitica frontalis
+../bio/bioq.html#Quoy -- pa3w.html Acrocephalus luscinius 
+../bio/bioq.html#Quoy -- pa40.html Zosterops lateralis westernensis
+../bio/bioq.html#Quoy -- pa4a.html Poodytes punctatus 
+../bio/bioq.html#Quoy -- pa4a.html Poodytes punctatus punctatus
+../bio/bioq.html#Quoy -- pa4d.html Aplonis zelandica 
+../bio/bioq.html#Quoy -- pa4d.html Aplonis zelandica zelandica
+../bio/bioq.html#Quoy -- pa4j.html Turdus falcklandii 
+../bio/bioq.html#Quoy -- pa4j.html Turdus falcklandii falcklandii
+../bio/bioq.html#Quoy -- pa4j.html Turdus poliocephalus vanikorensis
+../bio/bioq.html#Quoy -- pa4x.html Stagonopleura oculata 
+../bio/bioq.html#Quoy -- pa66.html Melanodera melanodera 
+../bio/bioq.html#Quoy -- pa66.html Melanodera melanodera melanodera
+../bio/bioq.html#Quoy -- pici.html Mulleripicus fulvus 
+../bio/bioq.html#Quoy -- pici.html Mulleripicus fulvus fulvus
+../bio/bioq.html#Quoy -- podi.html Rollandia rolland 
+../bio/bioq.html#Quoy -- podi.html Rollandia rolland rolland
+../bio/bioq.html#Quoy -- psit.html Alisterus amboinensis dorsalis
+../bio/bioq.html#Quoy -- psit.html Barnardius zonarius semitorquatus
+../bio/bioq.html#Quoy -- stri.html Ninox punctulata 
+../bio/bioq.html#Quoy -- stri.html Ninox variegata 
+../bio/bioq.html#Quoy -- stri.html Ninox variegata variegata
+../bio/bioq.html#Quoy -- stri.html Otus manadensis 
+../bio/bioq.html#Quoy -- stri.html Otus manadensis manadensis
+../bio/bior.html #Roux -- pele.html Ardea cinerea monicae
+../bio/bior.html #Roux,F -- proc.html Diomedea amsterdamensis 
+../bio/bior.html#Neumann -- pa4g.html Turdoides hypoleuca rufuensis
+../bio/bior.html#Rego -- pa05.html Dendrocolaptes certhia retentus
+../bio/bior.html#Rego -- pa08.html Tolmomyias assimilis sucunduri
+../bio/bior.html#Rego -- pa08.html Zimmerius chicomendesi 
+../bio/bior.html#Rego -- pa09.html Hypocnemis rondoni 
+../bio/bior.html#Rego -- pici.html Nystalus obamai 
+../bio/bior.html#Rego,PS -- pa1e.html Hylopezus whittakeri 
+../bio/bior.html#Reveal -- pa61.html Vermivora cyanoptera 
+../bio/bior.html#Reza%20Kahn -- stri.html Phodilus assimilis ripleyi
+../bio/bior.html#Ribas -- pa05.html Campylorhamphus procurvoides cardosoi
+../bio/bior.html#Ribas -- pa05.html Campylorhamphus procurvoides gyldenstolpei
+../bio/bior.html#Ribas -- pa39.html Cyanocorax heilprini hafferi
+../bio/bior.html#Rodriguez-Exposito -- pa60.html Fringilla coelebs bakeri
+../bio/bior.html#Rodriguez-M -- pa1e.html Grallaria alleni andaquiensis
+../bio/bior.html#Rodriguez-M -- pa1e.html Grallaria rufocinerea romeroana
+../bio/bior.html#Roselaar,CS -- gall.html Megapodius cumingii talautensis
+../bio/bior.html#Roselaar,CS -- gall.html Megapodius freycinet oustaleti
+../bio/bior.html#Roselaar,CS -- pa60.html Carpodacus sillemi 
+../bio/bior.html#Roselaar,CS -- psit.html Cacatua goffiniana 
+../bio/bior.html#Roux,F -- stri.html Glaucidium capense etchecopari
+../bio/bior.html#Rowley -- pa39.html Corvus tasmanicus boreus
+../bio/bior.htmo#Rothschild -- pa3c.html Paradisaea minor jobiensis
+../bio/bios.html #Stahl -- proc.html Diomedea amsterdamensis 
+../bio/bios.html#Salo monsen -- pele.html Butorides striata flyensis
+../bio/bios.html#Sangster` -- grui.html GENUS: GRUIFORMES RALLIDAE Paragallinula
+../bio/bios.html#Sauer-Gurth -- stri.html Ninox sumbaensis 
+../bio/bios.html#Saunders,GB -- pa6s.html Sturnella magna auropectoralis
+../bio/bios.html#Schleep -- char.html Larus hyperboreus leuceretes
+../bio/bios.html#Scully,EL -- stri.html Strix aluco biddulphi
+../bio/bios.html#Servat -- pa08.html Cnipodectes superrufus 
+../bio/bios.html#Severtsov -- pa60.html Leucosticte brandti pamirensis
+../bio/bios.html#Shapre -- cucu.html Ceuthmochares australis 
+../bio/bios.html#Shipton -- pa09.html Batara cinerea argentina
+../bio/bios.html#Sndevall -- colu.html Streptopelia roseogrisea 
+../bio/bios.html#SousaBRS -- pici.html Nystalus obamai 
+../bio/bios.html#Svensson -- pa4h.html Sylvia cantillans iberiae
+../bio/bios.html#Svensson -- pa4h.html Sylvia hortensis cyrenaicae
+../bio/bios.html#Svensson -- pa60.html Fringilla coelebs harterti
+../bio/bios.htmlSclater,PL -- cora.html Momotus subrufescens subrufescens
+../bio/biot.html#Tallman -- pa66.html GENUS: PASSERIFORMES THRAUPIDAE Nephelornis
+../bio/biot.html#Tallman -- pa66.html Nephelornis oneilli 
+../bio/biot.html#Townsen d,CH -- pa61.html Leiothlypis celata sordida
+../bio/biot.html#Trost -- stri.html Ninox sumbaensis 
+../bio/biow.html #Weimerskirch -- proc.html Diomedea amsterdamensis 
+../bio/biow.html#Warakagoda -- stri.html Otus thilohoffmanni 
+../bio/biow.html#Weckstein,C -- colu.html GENUS: COLUMBIFORMES COLUMBIDAE Leptotrygon
+../bio/biow.html#Weckstein,C -- colu.html GENUS: COLUMBIFORMES COLUMBIDAE Zentrygon
+../bio/biow.html#Weckstein,C -- pici.html Capito wallacei 
+../bio/biow.html#Whittaker -- falc.html Micrastur mintoni 
+../bio/biow.html#Willimott,KR -- pa4j.html Geokichla erythronota kabaena
+../bio/biow.html#Willis -- pa08.html Phylloscartes kronei 
+../bio/biow.html#Wink -- pa3n.html Cyanistes teneriffae hedwigae
+../bio/biow.html#Wink -- pa43.html Regulus regulus ellenthalerae
+../bio/biow.html#Wink -- stri.html Glaucidium brasilianum stranecki
+../bio/biow.html#Wink -- stri.html Ninox sumbaensis 
+../bio/bioy.html#Yabar,R -- stri.html Megascops koepckeae hockingi
+../bio/bioy.html#Yabar,V -- stri.html Megascops koepckeae hockingi
+../bio/bioy.html#Yamashina -- apod.html Apus pacificus kanoi
+../bio/bioy.html#Yamashina -- colu.html Ducula oceanica ratakensis
+../bio/bioy.html#Yamashina -- grui.html Gallirallus okinawae 
+../bio/bioy.html#Yamashina -- grui.html Gallirallus striatus taiwanus
+../bio/bioy.html#Yamashina -- pa38.html Monarcha takatsukasae 
+../bio/bioy.html#Yamashina -- pa3n.html Poecile palustris ernsti
+../bio/bioy.html#Yamashina -- pa3w.html Acrocephalus hiwae 
+../bio/bioy.html#Yamashina -- pa3w.html Acrocephalus nijoi 
+../bio/bioy.html#Yamashina -- pa40.html Apalopteron familiare hahasima
+../bio/bioy.html#Yamashina -- pa40.html Rukia longirostra 
+../bio/bioy.html#Yamashina -- pa40.html Zosterops rotensis 
+../bio/bioy.html#Yamashina -- pa4d.html Aplonis opaca aenea
+../bio/bioy.html#Yamashina -- pa4d.html Aplonis opaca orii
+../bio/bioy.html#Yamashina -- pa4d.html Aplonis opaca ponapensis
+../bio/bioy.html#Yamashina -- pa4j.html Turdus chrysolaus orii
+../bio/bioy.html#Yamashina -- pa4x.html Erythrura trichroa clara
+../bio/bioy.html#Yamashina -- pici.html Picoides tridactylus inouyei
+../bio/bioy.html#Yamashina -- pici.html Picoides tridactylus kurodai
+../bio/bioy.html#Yamashina -- stri.html GENUS: STRIGIFORMES STRIGIDAE Pyrroglaux
+../bio/bioy.html#Yamashina -- stri.html Strix nivicolum yamadae
+../bio/bioy.html#Yang -- gall.html Tetraogallus tibetanus yunnanensis
+../bio/bioy.html#Yang -- pa3z.html Spelaeornis troglodytoides nanchuanensis
+../bio/bioy.html#Yang -- pa4g.html Trochalopteron chrysopterum ailaoshanense
+../bio/bioy.html#Yarrell -- anse.html Cygnus columbianus bewickii
+../bio/bioy.html#Yen -- pa4e.html Alcippe variegaticeps 
+../bio/bioy.html#Yen -- pa4e.html Napothera epilepidota delacouri
+../bio/bioy.html#Yen -- pa4g.html Heterophasia desgodinsi tonkinensis
+../bio/bioy.html#Yen -- pa4g.html Leiothrix argentauris tahanensis
+../bio/bioy.html#Yen -- pa4h.html Sinosuthora alphonsiana stresemanni
+../bio/bioy.html#Young,JR -- gall.html Centrocercus minimus 
+../bio/bioy.html#Younger,JL -- pa2g.html Newtonia amphichroa lavarambo
+../bio/bioy.html#Yu -- pa3z.html Spelaeornis troglodytoides nanchuanensis
+../bio/bioy.html#Yzurieta -- pa05.html Asthenes modesta cordobae
+../bio/bioy.html#Yzurieta -- pa05.html Asthenes sclateri brunnescens
+../bio/bioy.html#Yzurieta -- pa05.html Cinclodes olrogi 
+../bio/bioy.html#Yzurieta -- pa05.html Geositta cunicularia contrerasi
+../bio/bioy.html#Yzurieta -- pa08.html Agriornis montanus fumosus
+../bio/bioy.html#Yzurieta -- pa08.html Muscisaxicola rufivertex achalensis
+../bio/bioy.html#Yzurieta -- pa08.html Xolmis salinarum 
+../bio/bioy.html#Yzurieta -- pa1b.html Melanopareia maximiliani pallida
+../bio/bioy.html#Yzurieta -- pa66.html Catamenia inornata cordobensis
+../bio/bioy.html#Yzurieta -- pa66.html Phrygilus plebejus naroskyi
+../bio/bioy.html#Yzurieta -- pa66.html Phrygilus unicolor cyaneus
+../bio/bioy.html#Yzurieta -- pa6s.html Leistes loyca obscurus
+../bio/bioy.html#Yzurieta -- psit.html Cyanoliseus patagonus conlara
+../bioc.html#Cai,T -- pa4a.html Locustella chengi 
+../bioc.html#Cai,T -- pa4j.html Zoothera salimalii 
+../bioc.html#Carey,GJ -- pa4a.html Locustella chengi 
+../biod.html#Dai -- pa4a.html Locustella chengi 
+../biod.html#Dalvi -- pa4j.html Zoothera salimalii 
+../biod.html#Dong -- pa4a.html Locustella chengi 
+../biog.html#Song,G -- pa4j.html Zoothera salimalii 
+../bioh.html#Holt,PI -- pa4a.html Locustella chengi 
+../biol.html#Kalyakin -- pa4j.html Zoothera salimalii 
+../biol.html#Leader -- pa4a.html Locustella chengi 
+../biol.html#Lei,F -- pa4a.html Locustella chengi 
+../biol.html#Lei,F -- pa4j.html Zoothera salimalii 
+../biol.html#Liu,Ya -- pa4a.html Locustella chengi 
+../biom.html#Manh,HL -- pa4a.html Locustella chengi 
+../bios.html#Song,G -- pa4a.html Locustella chengi 
+../biox.html#Xia -- pa4a.html Locustella chengi 
+../biox.html#Xu -- pa4j.html Zoothera salimalii 
+../bioz.html#Zhang,R -- pa4j.html Zoothera salimalii 
+../bioz.html#Zhang,Ya -- pa4a.html Locustella chengi 
+../bioz.html#Zhao,C -- pa4j.html Zoothera salimalii 
+../bioz.html#Zhao,J -- pa4a.html Locustella chengi 
+./n/b.html#BostrychiaGray -- pele.html GENUS: PELECANIFORMES THRESKIORNITHIDAE Bostrychia
+./n/m.html#E.mesoleucaAuthor -- pa46.html Thryomanes bewickii mexicanus
+Bonaccorso,E -- apod.html Oreotrochilus cyanolaemus 
+bio/bioh.html#Pacheco -- capr.html Chordeiles nacunda coryi
